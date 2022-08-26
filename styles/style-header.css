@@ -1,0 +1,116 @@
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: silver;
+}
+
+::-webkit-scrollbar-track {
+    background-color: silver;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #437353;
+}
+@font-face {
+    font-family: Roboto; 
+    src: url('../fonts/Roboto.ttf');
+}
+
+@font-face {
+    font-family: Cambria; 
+    src: url('../fonts/Cambria.ttc');
+
+}
+
+@font-face {
+    font-family: Trajan;
+    src: url('../fonts/Trajan\ Pro\ 3.otf');
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+@media screen and (min-width: 1080px) {
+    #header {
+        height: 63px;
+        box-sizing: border-box;
+        background: #ffffff;
+        padding-left: 50px;
+        display: table;
+        width: 100%;
+        position: fixed;
+        z-index: 99;
+        transition: top 0.8s;
+    }
+
+    #header .logo a img {
+        width: 85px;
+        max-width: 85px;
+        position: absolute;
+        right: 79.5%;
+        top: 10px;
+    }
+
+    #header .logo a img:hover {
+        transition: 1.3s ease;
+        transform: rotate(10deg);
+    }
+
+    .menu {
+        position: absolute;
+        left: 20%;
+        top: 5px;
+        right: 15%;
+    }
+
+    .menu .active {
+        color: #437353;
+    }
+
+    .menu ul {
+        text-align: right;
+    }
+    .menu ul li {
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .menu a{
+        font-family: Trajan, "Sun-Serif";
+        font-size: 16px;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #000000;
+        padding: 0px 10px 0px 10px;
+        text-decoration-color: #ffffff;
+    }
+
+    #language_li {
+        padding-left: 50px;
+    }
+
+    #language {
+        color: #7a7a7a;
+        font-family: Cambria;
+    }
+
+    #language:hover {
+        color: #437353;
+        text-decoration-color: #ffffff;
+    }
+
+    .menu a:hover {
+        color: #437353;
+        text-decoration-color: #437353;
+        transition: 0.3s ease;
+        text-transform: none;
+    }
+    .menu_about a:hover{
+        text-decoration-color: #ffffff;
+    }
+    .menu .menu_active_a {
+        text-decoration-color: #000000;
+    }
+}

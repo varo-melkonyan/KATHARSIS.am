@@ -1,0 +1,375 @@
+@font-face {
+  font-family: Roboto; 
+  src: url('../fonts/Roboto.ttf');
+}
+
+@font-face {
+  font-family: Cambria; 
+  src: url('../fonts/Cambria.ttc');
+
+}
+
+@font-face {
+  font-family: Trajan;
+  src: url('../fonts/Trajan\ Pro\ 3.otf');
+
+}
+
+@media screen and (min-width: 1080px) {
+  * {
+      box-sizing: border-box;
+  }
+  .slideshow-container img{
+      vertical-align: middle;
+  }
+
+  /* Slideshow container */
+  .slideshow-container {
+    max-width: 100%;
+    position: relative;
+    margin: auto;
+  }
+
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: 40px;
+    height: 40px;
+    padding: 7px 0 0 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    user-select: none;
+    border-radius: 30px;
+  }
+
+  .prev {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: 40px;
+    height: 40px;
+    padding: 7px 0 0 13.5px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    user-select: none;
+    border-radius: 30px;
+  }
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+
+  /* Fading animation */
+  .fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+
+  @keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+
+  /* about_our_agency_section */
+  .about_our_agency_section {
+    padding-top: 5%;
+    margin: auto;
+    position: relative;
+    width: 70%;
+    height: 450px;
+    padding-bottom: 30%;
+  }
+
+  .about_our_agency {
+    width: 22vw;
+    display: inline-block;
+  }
+
+  .about_our_agency_title {
+    font-size: 1.5vw;
+    font-family: Roboto, sans-serif;
+    display: flex;
+    align-items: flex-start;
+    line-height: 1;
+  }
+
+  .about_our_agency_title::before {
+    content: '';
+    flex: 1;
+  }
+
+  .about_our_agency_title:not(:empty)::before {
+    border: solid 0.12vw #437353;
+    max-width: 4.1vw;
+    background: #437353;
+    margin-right: 5%;
+    margin-top: 5%;
+  }
+
+  .arrow_anim {
+    position: relative; 
+    float: right;
+    max-width: 15.5vw;
+    top: 7vw;
+    right: 10%;
+  }
+
+  /* branding_design_section */
+  .branding_design_section {
+    left: 0;
+    width: 70%;
+    display: flex;
+    padding-bottom: 10%;
+  }
+
+  .branding_design {
+    margin: 0 0 0 -20px;
+    display: inline-block;
+  }
+
+  .branding_design_section  .branding_design img{
+    width: 51.2vw;
+    vertical-align: middle;
+  }
+
+  .branding_design_text {
+    position: relative;
+    float: right;
+    left: 1.5vw;
+    top: 7.9vw;
+    height: 100%;
+  }
+
+  /* web_design_section */
+  .web_design_section {
+    right: 0;
+    position: relative;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 70%;
+    left: 30%;
+    padding-bottom: 10%;
+  }
+
+  .web_design {
+    margin: 0 -20px 0 0;
+  }
+
+  .web_design_section  .web_design img{
+    width: 51.2vw;
+    vertical-align: middle;
+  }
+
+  .web_design_text {
+    position: relative;
+    float: left;
+    right: 1.5vw;
+    top: 7.9vw;
+    height: 100%;
+  }
+
+  /* 3d_design_section */
+  .treeD_design_section {
+    left: 0;
+    width: 70%;
+    display: flex;
+    padding-bottom: 10%;
+  }
+
+  .treeD_design {
+    margin: 0 0 0 -20px;
+    display: inline-block;
+  }
+
+  .treeD_design_section  .treeD_design img{
+    width: 51.2vw;
+    vertical-align: middle;
+  }
+
+  .treeD_design_text {
+    position: relative;
+    float: right;
+    left: 1.5vw;
+    top: 7.9vw;
+    height: 100%;
+  }
+
+  /* our_works */
+  .our_works_div {
+    width: 70%;
+    margin: 0 auto;
+  }
+
+  .div_seperator_our_works {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    font-size: 1.2vw;
+    font-weight: bold;
+    padding-bottom: 2%;
+  }
+  
+  .div_seperator_our_works::before,
+  .div_seperator_our_works::after {
+    content: '';
+    flex: 1;
+  }
+  
+  .div_seperator_our_works:not(:empty)::before {
+    border: solid 1.2px;
+    max-width: 5%;
+    background: #414042;
+    margin-right: 1%;
+  }
+  
+  .div_seperator_our_works:not(:empty)::after {
+    border: solid 1.2px;
+    max-width: 100%;
+    background: #414042;
+    margin-left: 1%;
+  }
+
+  /* swiper */
+  #swiper {
+    position: relative;
+    width: 100%;
+    padding-bottom: 10%;
+  }
+
+  #swiper ul li{
+    display: inline-block;
+  }
+  #swiper ul li img{
+    max-height: 420px !important;
+  }
+
+  #swiper ul{
+    display: flex;
+    list-style-type: none;
+    position: relative;
+    width: 100%;
+    justify-content: end;
+  }
+
+   /* our_team */
+   .our_team {
+    padding-bottom: 10%;
+   }
+
+   .our_team_div {
+    width: 70%;
+    margin: 0 auto;
+  }
+
+  .div_seperator_our_team {
+    display: flex;
+    align-items: center;
+    font-family: Roboto, sans-serif;
+    font-size: 1.2vw;
+    font-weight: bold;
+    padding-bottom: 2%;
+  }
+  
+  .div_seperator_our_team::before {
+    content: '';
+    flex: 1;
+  }
+  
+  .div_seperator_our_team:not(:empty)::before {
+    border: solid 1.2px;
+    max-width: 5%;
+    background: #414042;
+    margin-right: 1%;
+  }
+  .our_team .our-team-content {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+  }
+
+  .our_team .green {
+    width: 50%;
+    height: auto;
+    text-align: center;
+    background-color: #437353;
+  }
+
+  .our_team .grey {
+    width: 50%;
+    height: auto;
+    background-color: #7A7A7A;
+  }
+
+  .our_team .green span{
+    padding: 10px;
+    display: inline-block;
+    color: #FFFFFF;
+    font-family: Roboto, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.2em;
+    text-align: left;
+  }
+
+/* WE WORK WITH */
+  .our_twe_work_witheam {
+    padding-bottom: 10%;
+  }
+
+  .we_work_with {
+    width: 70%;
+    margin: 0 auto;
+  }
+
+  .div_seperator_we_work_with {
+    display: flex;
+    align-items: end;
+    font-size: 1.1vw;
+    color: #808080;
+    font-family: "Roboto", Sans-serif;
+    font-weight: bold;
+    padding-bottom: 1%;
+  }
+  
+  .div_seperator_we_work_with::after {
+    content: '';
+    flex: 1;
+    margin-left: -11.5%;
+    height: 3px;
+    background-color: #E6E7E8;
+  }
+  
+  .div_seperator_we_work_with:not(:empty)::after {
+    border: solid 0.2px #E6E7E8;
+    max-width: 100%;
+  }
+
+  .we_work_with_company ul{
+    position: relative;
+    left: 5%;
+  }
+
+  .we_work_with_company ul li img{
+    max-width: 10vw;
+    transition: all .2s ease-in-out;
+  }
+
+  .we_work_with_company ul li img:hover {
+    transform: scale(1.2);
+  }
+
+  .we_work_with_company ul li{
+    display: inline;
+    padding-right: 10%;
+    transition: all .2s ease-in-out;
+  }
+}

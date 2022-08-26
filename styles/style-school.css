@@ -1,0 +1,38 @@
+@font-face {
+    font-family: Roboto; 
+    src: url('../fonts/Roboto.ttf');
+}
+  
+@font-face {
+    font-family: Cambria; 
+    src: url('../fonts/Cambria.ttc');  
+}
+  
+@font-face {
+    font-family: Trajan;
+    src: url('../fonts/Trajan\ Pro\ 3.otf');  
+}
+  
+@media screen and (min-width: 1080px) {
+    .about-school-section {
+        left: 0;
+        width: 70%;
+        display: flex;
+        padding-top: 10%;
+        margin: 0 auto;
+    }
+
+    .about-school-logo {
+        display: inline-block;
+        width: 25%;
+    }
+
+    .about-school-logo img{
+        max-width: 100%;
+        padding-right: 10%;
+    }
+
+    .about-school-text {
+        
+    }
+}
