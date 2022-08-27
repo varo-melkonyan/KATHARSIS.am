@@ -16,7 +16,7 @@
 @media screen and (min-width: 1080px) {
     .about-school-section {
         left: 0;
-        width: 70%;
+        width: 68%;
         display: flex;
         padding-top: 10%;
         margin: 0 auto;
@@ -24,7 +24,8 @@
 
     .about-school-logo {
         display: inline-block;
-        width: 25%;
+        max-width: 10vw;
+        margin-right: 4vw;
     }
 
     .about-school-logo img{
@@ -32,7 +33,61 @@
         padding-right: 10%;
     }
 
-    .about-school-text {
+    .about-school-text h2 {
+        color: #437353; 
+        font-family: Roboto, Sans-serif; 
+        font-size: 24px; 
+        font-weight: bold;
+    }
+
+    .about-school-text strong {
+        font-family: Roboto, Sans-serif; 
+        font-size: 19px; 
+        color:#777;
+    }
+
+    .about-school-text span {
+        font-family: "Roboto", Sans-serif;
+        font-size: 19px;
+        color: #777;
+    }
+
+    .school_div {
+        border: solid 0.2px #808080;
+        max-width: 30px;
+    }
+
+    #kdsClasses {
+        left: 0;
+        width: 68%;
+        display: flex;
+        padding-top: 10%;
+        margin: 0 auto;
+    }
+    
+    .graphic_design_school {
+        font-family: "Roboto", Sans-serif;
+        font-weight: bold;
+        line-height: 30px;
+        width: 100%;
+    }
+
+    .graphic_design_school_div {
+        height: 5px; 
+        width: 107px; 
+        background: #437353;
+        margin: 10px 0;
+    }
+
+    .graphic_design_school a {
+        box-shadow: none;
+        text-decoration: none;
+        font-family: Roboto, Sans-serif;
+        font-size: 21px;
+        font-weight: bold;
+    }
+
+    .graphic_design_school_title img{
         
     }
 }
