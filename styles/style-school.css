@@ -60,7 +60,6 @@
     #kdsClasses {
         left: 0;
         width: 68%;
-        display: flex;
         padding-top: 10%;
         margin: 0 auto;
     }
@@ -87,7 +86,16 @@
         font-weight: bold;
     }
 
-    .graphic_design_school_title img{
+    /* .graphic_design_school_title img{
         
+    } */
+
+    .graphic_design_school .about_more {
+        background: #437353;
+        padding: 10px;
+        display: flex;
+        font-family: Roboto, Sans-serif;
+        font-size: 21px;
+        font-weight: bold;
     }
 }
