@@ -1,6 +1,6 @@
+
 var prevScrollpos = window.pageYOffset;
 window.onscroll = function() {
-
     var currentScrollpos = window.pageYOffset;
     if(prevScrollpos > currentScrollpos) {
         document.getElementById("header").style.top = "0";

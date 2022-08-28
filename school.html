@@ -4,17 +4,31 @@
     <meta charset="UTF-8">
     <title>School - Katharsis</title>
     <link rel="icon" type="image/x-icon" href="img/ICON-LOGO/favicon.png">
-    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <link rel="stylesheet" href="styles/style-header.css">
     <link rel="stylesheet" href="styles/style-footer.css">
     <link rel="stylesheet" href="styles/style-school.css">
     <link rel="stylesheet" href="styles/swiper.css">
     <script src="scripts/menu_navigation.js"></script>
-    <script src="scripts/preloader.js"></script>
+    <script src="scripts/loader.js"></script>
+    <link rel="stylesheet" href="styles/loader.css">
     <script src="scripts/swiper_images.js"></script>
 
 </head>
-<body id="content">
+<body>
+    <div class="container" id="loadingScreen">
+        <div id="loader">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </div>
+    </div>
+<div id="all_content">
   <div id="header">
       <div class="logo">
           <a href="index.html">
@@ -103,5 +117,6 @@
           </script>
       </div>
   </footer>
+  </div>
 </body>
 </html>

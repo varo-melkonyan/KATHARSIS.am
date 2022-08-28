@@ -33,6 +33,9 @@ body {
     overflow-x: hidden;
 }
 @media screen and (min-width: 1080px) {
+    #all_content {
+        display: none;
+    }
     #header {
         height: 63px;
         box-sizing: border-box;
