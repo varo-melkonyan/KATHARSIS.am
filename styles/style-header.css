@@ -1,15 +1,17 @@
-::-webkit-scrollbar {
+.hide-scrollbar ::-webkit-scrollbar {
+    display: block;
     width: 10px;
     background-color: silver;
 }
 
-::-webkit-scrollbar-track {
+.hide-scrollbar ::-webkit-scrollbar-track {
     background-color: silver;
 }
 
-::-webkit-scrollbar-thumb {
+.hide-scrollbar ::-webkit-scrollbar-thumb {
     background-color: #437353;
 }
+
 @font-face {
     font-family: Roboto; 
     src: url('../fonts/Roboto.ttf');

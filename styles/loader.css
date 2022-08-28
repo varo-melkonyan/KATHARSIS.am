@@ -1,5 +1,8 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
 #loader {
-    height: 4rem;
     display: flex;
 }
 
@@ -29,5 +32,6 @@
 }
 
 #loader img{
-
+    width: 8vw;
+    height: 8vw;
 }
