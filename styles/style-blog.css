@@ -1,0 +1,37 @@
+@font-face {
+    font-family: Roboto; 
+    src: url('../fonts/Roboto.ttf');
+}
+  
+@font-face {
+    font-family: Cambria; 
+    src: url('../fonts/Cambria.ttc');  
+}
+  
+@font-face {
+    font-family: Trajan;
+    src: url('../fonts/Trajan\ Pro\ 3.otf');  
+}
+  
+@media screen and (min-width: 1080px) {
+    .comming_soon {
+        left: 0;
+        width: 68%;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .comming_soon p {
+        display: inline-block;
+        color: #000000;
+        font-family: Roboto, Sans-serif;
+        font-size: 7vw;
+        font-weight: bold;
+        text-align:center;
+        margin-left: 12vw;
+    }
+    
+    .comming_soon img {
+        width: 100%;
+    }
+}
