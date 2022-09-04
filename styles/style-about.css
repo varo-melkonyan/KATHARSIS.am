@@ -72,6 +72,7 @@
      .services_we_provide {
         margin-top: 5%;
         padding-top: 2%;
+        padding-bottom: 1%;
         background-color: #E6E7E8;
     }
 
@@ -121,4 +122,201 @@
         font-size: 18px;
         font-weight: 400;
     }
+
+    /* WE PROVIDE SERVICES IN */
+    .we_provide_services_in {
+        padding-top: 7%;
+    }
+
+    .we_provide_services_in_div {
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .div_seperator_we_provide_services_in {
+        display: flex;
+        align-items: center;
+        text-align: left;
+        font-family: Roboto, sans-serif;
+        font-weight: bold;
+        padding-bottom: 2%;
+        color: #437353;
+        font-family: Roboto, Sans-serif;
+        font-size: 26px;
+        font-weight: bold;
+        line-height: 1.1em;
+    }
+    
+    .div_seperator_we_provide_services_in::before,
+    .div_seperator_we_provide_services_in::after {
+        content: '';
+        flex: 1;
+    }
+    
+    .div_seperator_we_provide_services_in:not(:empty)::before {
+        border: solid 2px;
+        max-width: 5%;
+        background: #414042;
+        margin-right: 1%;
+    }
+    
+    .div_seperator_we_provide_services_in:not(:empty)::after {
+        border: solid 2px;
+        max-width: 100%;
+        background: #414042;
+        margin-left: 1%;
+    }
+
+    .we_provide_services_in p {
+        padding: 0 4vw 0;
+        color: #414042;
+        font-family: Roboto, Sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+
+    .we_provide_services_in ul {
+        margin: 0 auto;
+        position: relative;
+        left: 2%;
+        padding-top: 10px;
+        max-width: 92%;
+    }
+    
+      .we_provide_services_in ul li img{
+        max-width: 8vw;
+        transition: all .2s ease-in-out;
+    }
+    
+      .we_provide_services_in ul li img:hover {
+        transform: scale(1.2);
+    }
+    
+      .we_provide_services_in ul li{
+        display: inline;
+        padding-right: 3.8%;
+        transition: all .2s ease-in-out;
+    }
+
+    /* WE ARE SKILLED IN */
+    .we_are_skilled_in {
+        padding-top: 7%;
+    }
+
+    .we_are_skilled_in_div {
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .div_seperator_we_are_skilled_in {
+        display: flex;
+        align-items: center;
+        text-align: left;
+        font-family: Roboto, sans-serif;
+        font-weight: bold;
+        padding-bottom: 2%;
+        color: #437353;
+        font-family: Roboto, Sans-serif;
+        font-size: 26px;
+        font-weight: bold;
+        line-height: 1.1em;
+    }
+    
+    .div_seperator_we_are_skilled_in::before,
+    .div_seperator_we_are_skilled_in::after {
+        content: '';
+        flex: 1;
+    }
+    
+    .div_seperator_we_are_skilled_in:not(:empty)::before {
+        border: solid 2px;
+        max-width: 5%;
+        background: #414042;
+        margin-right: 1%;
+    }
+    
+    .div_seperator_we_are_skilled_in:not(:empty)::after {
+        border: solid 2px;
+        max-width: 100%;
+        background: #414042;
+        margin-left: 1%;
+    }
+
+    .we_are_skilled_in p {
+        padding: 0 4vw 0;
+        color: #414042;
+        font-family: Roboto, Sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+
+    .we_are_skilled_in ul{
+        position: relative;
+        left: 2%;
+        padding-top: 10px;
+    }
+    
+      .we_are_skilled_in ul li img{
+        max-width: 3vw;
+        transition: all .2s ease-in-out;
+    }
+    
+    .we_are_skilled_in ul li{
+        display: inline;
+        padding-right: 3.77%;
+        transition: all .2s ease-in-out;
+    }
+
+    /* naming_and_logo */
+    .naming_and_logo {
+        padding-top: 7%;
+    }
+
+    .naming_and_logo_div {
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .div_seperator_naming_and_logo {
+        display: flex;
+        align-items: center;
+        text-align: left;
+        font-family: Roboto, sans-serif;
+        font-weight: bold;
+        padding-bottom: 2%;
+        color: #437353;
+        font-family: Roboto, Sans-serif;
+        font-size: 26px;
+        font-weight: bold;
+        line-height: 1.1em;
+    }
+    
+    .div_seperator_naming_and_logo::before,
+    .div_seperator_naming_and_logo::after {
+        content: '';
+        flex: 1;
+    }
+    
+    .div_seperator_naming_and_logo:not(:empty)::before {
+        border: solid 2px;
+        max-width: 5%;
+        background: #414042;
+        margin-right: 1%;
+    }
+    
+    .div_seperator_naming_and_logo:not(:empty)::after {
+        border: solid 2px;
+        max-width: 100%;
+        background: #414042;
+        margin-left: 1%;
+    }
+
+    .naming_and_logo p {
+        padding: 0 4vw 0;
+        color: #414042;
+        font-family: Roboto, Sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+    }
+
 }
