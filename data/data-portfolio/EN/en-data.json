@@ -57,87 +57,87 @@
         {
             "title": "СТиП",
             "type": "BRANDING",
-            "img-brand": "",
-            "img-brand-items": ""
+            "img-brand": "img/portfolio-img/STIP-BRANDING/Stip-00.jpeg",
+            "img-brand-items": ["img/portfolio-img/STIP-BRANDING/Stip-01.jpeg","img/portfolio-img/STIP-BRANDING/Stip-02.jpeg","img/portfolio-img/STIP-BRANDING/Stip-03.jpeg","img/portfolio-img/STIP-BRANDING/Stip-04.jpeg","img/portfolio-img/STIP-BRANDING/Stip-05.jpeg","img/portfolio-img/STIP-BRANDING/Stip-06.jpeg","img/portfolio-img/STIP-BRANDING/Stip-07.jpeg","img/portfolio-img/STIP-BRANDING/Stip-08.jpeg"]
         },
         {
             "title": "AVIS",
             "type": "BRANDING",
-            "img-brand": "",
-            "img-brand-items": ""
+            "img-brand": "img/portfolio-img/AVIS-BRANDING/Avis-00.jpeg",
+            "img-brand-items": ["img/portfolio-img/AVIS-BRANDING/Avis-01.jpeg","img/portfolio-img/AVIS-BRANDING/Avis-02.jpeg","img/portfolio-img/AVIS-BRANDING/Avis-03.jpeg","img/portfolio-img/AVIS-BRANDING/Avis-04.jpeg","img/portfolio-img/AVIS-BRANDING/Avis-05.jpeg","img/portfolio-img/AVIS-BRANDING/Avis-06.jpeg","img/portfolio-img/AVIS-BRANDING/Avis-07.jpeg"]
         },
         {
             "title": "ԿԱԹԻԿ",
             "type": "BRANDING",
-            "img-brand": "",
-            "img-brand-items": ""
+            "img-brand": "img/portfolio-img/Katik-BRANDING/Katik-00.jpeg",
+            "img-brand-items": ["img/portfolio-img/Katik-BRANDING/Katik-01.jpeg","img/portfolio-img/Katik-BRANDING/Katik-02.jpeg"]
         },
         {
             "title": "ՏՈՏԻԿ",
             "type": "BRANDING",
-            "img-brand": "",
-            "img-brand-items": ""
+            "img-brand": "img/portfolio-img/TOTIK-BRANDING/Totik-00.jpeg",
+            "img-brand-items": ["img/portfolio-img/TOTIK-BRANDING/totik-01.jpeg","img/portfolio-img/TOTIK-BRANDING/totik-02.jpeg","img/portfolio-img/TOTIK-BRANDING/totik-03.jpeg","img/portfolio-img/TOTIK-BRANDING/totik-04.jpeg","img/portfolio-img/TOTIK-BRANDING/totik-05.jpeg","img/portfolio-img/TOTIK-BRANDING/totik-06.jpeg","img/portfolio-img/TOTIK-BRANDING/totik-07.jpeg","img/portfolio-img/TOTIK-BRANDING/totik-08.jpeg","img/portfolio-img/TOTIK-BRANDING/totik-09.jpeg"]
         },
         {
             "title": "ПОЛУФАБРИКАТ",
             "type": "BRANDING",
-            "img-brand": "",
-            "img-brand-items": "",
-            "video-brand": ""
+            "img-brand": "img/portfolio-img/POLUFABRIKAT-BRANDING/POLUFABRIKAT-00.jpeg",
+            "img-brand-items": ["img/portfolio-img/POLUFABRIKAT-BRANDING/Mis-01.jpeg","img/portfolio-img/POLUFABRIKAT-BRANDING/Mis-02.jpeg","img/portfolio-img/POLUFABRIKAT-BRANDING/Mis-03.jpeg","img/portfolio-img/POLUFABRIKAT-BRANDING/Mis-04.jpeg","img/portfolio-img/POLUFABRIKAT-BRANDING/Mis-05.jpeg","img/portfolio-img/POLUFABRIKAT-BRANDING/Mis-06.jpeg"],
+            "video-brand": "img/portfolio-img/POLUFABRIKAT-BRANDING/Mis-video-07.mp4"
         },
         {
             "title": "Եռաչափ դիզայն",
-            "type": "Եռաչափ դիզայն",
-            "img-brand": "",
-            "img-brand-items": ""
+            "type": "3D Design",
+            "img-brand": "img/portfolio-img/3D-INTERIOR/3D-INTERIOR-00.jpeg",
+            "img-brand-items": ["img/portfolio-img/3D-INTERIOR/Sink-00.jpeg","img/portfolio-img/3D-INTERIOR/Sink-01.jpeg","img/portfolio-img/3D-INTERIOR/Sink-02.jpeg","img/portfolio-img/3D-INTERIOR/Sink-03.jpeg","img/portfolio-img/3D-INTERIOR/Sink-04.jpeg","img/portfolio-img/3D-INTERIOR/Sink-05.jpeg","img/portfolio-img/3D-INTERIOR/Sink-06.jpeg","img/portfolio-img/3D-INTERIOR/Sink-07.jpeg","img/portfolio-img/3D-INTERIOR/Sink-08.jpeg","img/portfolio-img/3D-INTERIOR/Sink-09.jpeg","img/portfolio-img/3D-INTERIOR/Sink-010.jpeg","img/portfolio-img/3D-INTERIOR/Sink-011.jpeg","img/portfolio-img/3D-INTERIOR/Sink-012.jpeg"]
         },
         {
             "title": "3D-CHARACTER",
-            "type": "ԵՌԱՉԱՓ ԴԻԶԱՅՆ",
-            "img-brand": "",
-            "img-brand-items": ""
+            "type": "3D Design",
+            "img-brand": "img/portfolio-img/3D-CHARACTER/3D-CHARACTER-00.jpeg",
+            "img-brand-items": ["img/portfolio-img/3D-CHARACTER/3D-CHARACTER-ART-01.jpeg","img/portfolio-img/3D-CHARACTER/3D-CHARACTER-ART-02.jpeg","img/portfolio-img/3D-CHARACTER/3D-CHARACTER-ART-03.jpeg","img/portfolio-img/3D-CHARACTER/3D-CHARACTER-ART-04.jpeg","img/portfolio-img/3D-CHARACTER/3D-CHARACTER-ART-05.jpeg","img/portfolio-img/3D-CHARACTER/3D-CHARACTER-ART-06.jpeg","img/portfolio-img/3D-CHARACTER/3D-CHARACTER-ART-07.jpeg","img/portfolio-img/3D-CHARACTER/3D-CHARACTER-ART-08.jpeg","img/portfolio-img/3D-CHARACTER/3D-CHARACTER-ART-09.jpeg"]
         },
         {
             "title": "LOCK",
             "type": "BRANDING",
-            "img-brand": "",
-            "img-brand-items": ""
+            "img-brand": "img/portfolio-img/LOCK-BRANDING/LOCK-00.jpeg",
+            "img-brand-items": ["img/portfolio-img/LOCK-BRANDING/Lock-01.jpeg","img/portfolio-img/LOCK-BRANDING/Lock-02.jpeg","img/portfolio-img/LOCK-BRANDING/Lock-03.jpeg","img/portfolio-img/LOCK-BRANDING/Lock-04.jpeg","img/portfolio-img/LOCK-BRANDING/Lock-05.jpeg","img/portfolio-img/LOCK-BRANDING/Lock-06.jpeg"]
         },
         {
             "title": "Julsi Silver",
             "type": "BRANDING",
-            "img-brand": "",
-            "img-brand-items": ""
+            "img-brand": "img/portfolio-img/Julsi-Silver-BRANDING/Julsi-Silver-00.jpeg",
+            "img-brand-items": ["img/portfolio-img/Julsi-Silver-BRANDING/Julsi-Silver-01.jpeg","img/portfolio-img/Julsi-Silver-BRANDING/Julsi-Silver-02.jpeg","img/portfolio-img/Julsi-Silver-BRANDING/Julsi-Silver-03.jpeg","img/portfolio-img/Julsi-Silver-BRANDING/Julsi-Silver-04.jpeg","img/portfolio-img/Julsi-Silver-BRANDING/Julsi-Silver-05.jpeg","img/portfolio-img/Julsi-Silver-BRANDING/Julsi-Silver-06.jpeg"]
         },
         {
             "title": "VILLAGE TOUR",
             "type": "BRANDING",
-            "img-brand": "",
-            "img-brand-items": ""
+            "img-brand": "img/portfolio-img/VILLAGE-TOUR/VILLAGE-TOUR-00.jpeg",
+            "img-brand-items": ["img/portfolio-img/VILLAGE-TOUR/VILLAGE-TOUR-00.jpeg","img/portfolio-img/VILLAGE-TOUR/VILLAGE-TOUR-01.jpeg","img/portfolio-img/VILLAGE-TOUR/VILLAGE-TOUR-02.jpeg","img/portfolio-img/VILLAGE-TOUR/VILLAGE-TOUR-03.jpeg","img/portfolio-img/VILLAGE-TOUR/VILLAGE-TOUR-04.jpeg","img/portfolio-img/VILLAGE-TOUR/VILLAGE-TOUR-05.jpeg","img/portfolio-img/VILLAGE-TOUR/VILLAGE-TOUR-06.jpeg","img/portfolio-img/VILLAGE-TOUR/VILLAGE-TOUR-07.jpeg","img/portfolio-img/VILLAGE-TOUR/VILLAGE-TOUR-08.jpeg"]
         },
         {
             "title": "KATHARSIS",
             "type": "BRANDING",
-            "img-brand": "",
-            "img-brand-items": ""
+            "img-brand": "img/portfolio-img/KATHARSIS-BRANDING/KATHARSIS-BRANDING-00.jpeg",
+            "img-brand-items": ["img/portfolio-img/KATHARSIS-BRANDING/KATHARSIS-01.jpeg","img/portfolio-img/KATHARSIS-BRANDING/KATHARSIS-02.jpeg","img/portfolio-img/KATHARSIS-BRANDING/KATHARSIS-03.jpeg","img/portfolio-img/KATHARSIS-BRANDING/KATHARSIS-04.jpeg","img/portfolio-img/KATHARSIS-BRANDING/KATHARSIS-05.jpeg","img/portfolio-img/KATHARSIS-BRANDING/KATHARSIS-06.jpeg","img/portfolio-img/KATHARSIS-BRANDING/KATHARSIS-07.jpeg","img/portfolio-img/KATHARSIS-BRANDING/KATHARSIS-08.jpeg","img/portfolio-img/KATHARSIS-BRANDING/KATHARSIS-09.jpeg"]
         },
         {
             "title": "ԳԻՈՐԳԱՁԵ",
             "type": "BRANDING",
-            "img-brand": "",
-            "img-brand-items": ""
+            "img-brand": "img/portfolio-img/Giorgadze-BRANDING/Giorgadze-00.jpeg",
+            "img-brand-items": ["img/portfolio-img/Giorgadze-BRANDING/Limonad-01.jpeg","img/portfolio-img/Giorgadze-BRANDING/Limonad-02.jpeg","img/portfolio-img/Giorgadze-BRANDING/Limonad-03.jpeg","img/portfolio-img/Giorgadze-BRANDING/Limonad-04.jpeg","img/portfolio-img/Giorgadze-BRANDING/Limonad-05.jpeg"]
         },
         {
             "title": "ԱԲՀ",
             "type": "POSTER",
-            "img-brand": "",
-            "img-brand-items": ""
+            "img-brand": "img/portfolio-img/Abh-poster/abh-00.jpeg",
+            "img-brand-items": ["img/portfolio-img/Abh-poster/Nur-01.jpeg","img/portfolio-img/Abh-poster/Nur-02.jpeg","img/portfolio-img/Abh-poster/Nur-03.jpeg","img/portfolio-img/Abh-poster/Nur-04.jpeg","img/portfolio-img/Abh-poster/Nur-05.jpeg","img/portfolio-img/Abh-poster/Nur-06.jpeg","img/portfolio-img/Abh-poster/Nur-07.jpeg","img/portfolio-img/Abh-poster/Nur-08.jpeg"]
         },
         {
             "title": "LILIA BOOK",
             "type": "BRANDING",
-            "img-brand": "",
-            "img-brand-items": ""
+            "img-brand": "img/portfolio-img/LILIA-GIRQ-BRANDING/Lilia-Girq-branding-albom.jpeg",
+            "img-brand-items": ["img/portfolio-img/Lilia-Girq-branding-albom-01.jpeg,img/portfolio-img/Lilia-Girq-branding-albom-02.jpeg,img/portfolio-img/Lilia-Girq-branding-albom-03.jpeg,img/portfolio-img/Lilia-Girq-branding-albom-04.jpeg,"]
         },
         {
             "title": "ԼԻԼԻԱ ԳԻՐՔ",
