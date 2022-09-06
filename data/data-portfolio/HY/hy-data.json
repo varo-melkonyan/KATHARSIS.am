@@ -1,148 +1,148 @@
 {
     "data": [
         {
-            "title": "LILIA BOOK",
-            "type": "ԼՈԳՈ",
+            "title": "",
+            "type": "",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "ԼԻԼԻԱ ԳԻՐՔ",
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "",
+            "type": "",
+            "img-brand": "",
+            "img-brand-items": ""
+        },
+        {
+            "title": "LILIA BOOK",
             "type": "ԲՐԵՆԴԻՆԳ",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
+            "title": "ԼԻԼԻԱ ԳԻՐՔ",
+            "type": "ԼՈԳՈ",
+            "img-brand": "img/portfolio-img/LILIA-GIRQ-ALBOM.jpeg",
+            "img-brand-items": ["img/portfolio-img/LILIA-GIRQ-ALBOM.jpeg","img/portfolio-img/LILIA-GIRQ-ALBOM-01.jpeg","img/portfolio-img/LILIA-GIRQ-ALBOM-02.jpeg","img/portfolio-img/LILIA-GIRQ-ALBOM-03.jpeg","img/portfolio-img/LILIA-GIRQ-ALBOM-04.jpeg"]
         }
     ]
 }
