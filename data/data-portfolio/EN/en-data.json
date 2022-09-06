@@ -1,148 +1,149 @@
 {
     "data": [
         {
-            "title": "",
-            "type": "",
+            "title": "ArtMobile",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "Stop Terrorism",
+            "type": "POSTER",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "Smooth Body",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "Ernest Karen",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "GQ Electrician",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "August Five",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "To Sky",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "Mons",
+            "type": "LOGO",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "Boom Wash",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "СТиП",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "AVIS",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "ԿԱԹԻԿ",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "ՏՈՏԻԿ",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "ПОЛУФАБРИКАТ",
+            "type": "BRANDING",
+            "img-brand": "",
+            "img-brand-items": "",
+            "video-brand": ""
+        },
+        {
+            "title": "Եռաչափ դիզայն",
+            "type": "Եռաչափ դիզայն",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "3D-CHARACTER",
+            "type": "ԵՌԱՉԱՓ ԴԻԶԱՅՆ",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "LOCK",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "Julsi Silver",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "VILLAGE TOUR",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "KATHARSIS",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "ԳԻՈՐԳԱՁԵ",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "ԱԲՀ",
+            "type": "POSTER",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
+            "title": "LILIA BOOK",
+            "type": "BRANDING",
             "img-brand": "",
             "img-brand-items": ""
         },
         {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
-        },
-        {
-            "title": "",
-            "type": "",
-            "img-brand": "",
-            "img-brand-items": ""
+            "title": "ԼԻԼԻԱ ԳԻՐՔ",
+            "type": "LOGO",
+            "img-brand": "img/portfolio-img/LILIA-GIRQ-ALBOM.jpeg",
+            "img-brand-items": ["img/portfolio-img/LILIA-GIRQ-ALBOM.jpeg","img/portfolio-img/LILIA-GIRQ-ALBOM-01.jpeg","img/portfolio-img/LILIA-GIRQ-ALBOM-02.jpeg","img/portfolio-img/LILIA-GIRQ-ALBOM-03.jpeg","img/portfolio-img/LILIA-GIRQ-ALBOM-04.jpeg"]
         }
     ]
 }
