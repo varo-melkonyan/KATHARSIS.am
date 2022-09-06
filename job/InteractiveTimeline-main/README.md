@@ -1,2 +1,0 @@
-# InteractiveTimeline
-Interactive Timeline
