@@ -1,0 +1,26 @@
+#image_container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#layer1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#layer2 {
+    position: relative;
+}
+
+#moveable {
+    position: relative;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    transform: translate(0%,0%);
+    overflow: hidden;
+}

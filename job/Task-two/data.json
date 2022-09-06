@@ -1,0 +1,47 @@
+{
+    "firstImgs": [
+        {
+            "img": "images/1.png"
+        },
+        {
+            "img": "images/2.png"
+        },
+        {
+            "img": "images/3.png"
+        },
+        {
+            "img": "images/2.png"
+        },
+        {
+            "img": "images/3.png"
+        }
+    ],
+    "secondImgs": [
+        {
+            "img": "images/3.png"
+        },
+        {
+            "img": "images/3.png"
+        },
+        {
+            "img": "images/3.png"
+        }
+    ],
+    "lastImgs": [
+        {
+            "img": "images/1.png"
+        },
+        {
+            "img": "images/2.png"
+        },
+        {
+            "img": "images/3.png"
+        },
+        {
+            "img": "images/2.png"
+        },
+        {
+            "img": "images/3.png"
+        }
+    ]
+}
