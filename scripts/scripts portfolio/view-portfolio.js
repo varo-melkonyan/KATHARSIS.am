@@ -9,8 +9,7 @@ const view_pf = {
         `;
 
         $("#content_pf").append(portfolio);
-        console.log(portfolio)
-        $(`#${i}`).css("margin-left", 24 * i);
+        // $(`#${i}`).css("margin-left", 24 * i);
     }
 };
 // const view = {
