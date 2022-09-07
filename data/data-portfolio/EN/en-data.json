@@ -136,13 +136,13 @@
         {
             "title": "LILIA BOOK",
             "type": "BRANDING",
-            "img_brand": "/img/portfolio-img/LILIA-GIRQ-BRANDING/Lilia-Girq-branding-albom.jpeg",
+            "img_brand": "/img/portfolio-img/LILIA-GIRQ-BRANDING/Lilia-Girq-branding-albom.jpg",
             "img_brand_items": ["/img/portfolio-img/Lilia-Girq-branding-albom-01.jpeg,/img/portfolio-img/Lilia-Girq-branding-albom-02.jpeg,/img/portfolio-img/Lilia-Girq-branding-albom-03.jpeg,/img/portfolio-img/Lilia-Girq-branding-albom-04.jpeg,"]
         },
         {
             "title": "ԼԻԼԻԱ ԳԻՐՔ",
             "type": "LOGO",
-            "img_brand": "/img/portfolio-img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM.jpeg",
+            "img_brand": "/img/portfolio-img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM.jpg",
             "img_brand_items": ["/img/portfolio-img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM.jpeg","/img/portfolio-img/LILIA-GIRQ-ALBOM-01.jpeg","/img/portfolio-img/LILIA-GIRQ-ALBOM-02.jpeg","/img/portfolio-img/LILIA-GIRQ-ALBOM-03.jpeg","/img/portfolio-img/LILIA-GIRQ-ALBOM-04.jpeg"]
         }
     ]
