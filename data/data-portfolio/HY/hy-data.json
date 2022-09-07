@@ -83,7 +83,7 @@
             "type": "ԲՐԵՆԴԻՆԳ",
             "img_brand": "../../img/portfolio_img/POLUFABRIKAT-BRANDING/POLUFABRIKAT-00.jpeg",
             "img_brand_items": ["../../img/portfolio_img/POLUFABRIKAT-BRANDING/Mis-01.jpeg","../../img/portfolio_img/POLUFABRIKAT-BRANDING/Mis-02.jpeg","../../img/portfolio_img/POLUFABRIKAT-BRANDING/Mis-03.jpeg","../../img/portfolio_img/POLUFABRIKAT-BRANDING/Mis-04.jpeg","../../img/portfolio_img/POLUFABRIKAT-BRANDING/Mis-05.jpeg","../../img/portfolio_img/POLUFABRIKAT-BRANDING/Mis-06.jpeg"],
-            "video-brand": "../../img/portfolio_img/POLUFABRIKAT-BRANDING/Mis-video-07.mp4"
+            "video_brand": "../../img/portfolio_img/POLUFABRIKAT-BRANDING/Mis-video-07.mp4"
         },
         {
             "title": "Եռաչափ դիզայն",
