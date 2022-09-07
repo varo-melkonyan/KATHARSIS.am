@@ -12,16 +12,12 @@ async function onLoad() {
     
     const viewPfItem = {};
     const onClick = (event) => {
-        for(let i = 0; i < set.data[event.path[1].id].img_brand_items.length; i++) {
-            viewPfItem.pgf = set.data[event.path[1].id].img_brand_items;
-        }
+      viewPfItem.pgf = set.data[event.path[1].id].img_brand_items;
+      console.log(viewPfItem.pgf);
     }
 
-    for (let j = 0; j < document.getElementsByClassName("card").length; j++) {
-      const element = document.getElementsByClassName("card")[j];
+    for (let j = 0; j < document.getElementsByClassName("img-pf").length; j++) {
+      const element = document.getElementsByClassName("img-pf")[j];
       element.addEventListener('click', onClick);
     }
-
-    
-    
 }
