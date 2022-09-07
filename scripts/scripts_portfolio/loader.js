@@ -1,4 +1,7 @@
-(() =>{
+const loader = {
+	open: true,
+	toggle: () =>
+	{
 		if (true)
 		{
 			setTimeout(() => {
@@ -7,4 +10,5 @@
 				$("#all_content").css("display", "block");
 			}, 1000);
 		}
-})()
+	},
+}
