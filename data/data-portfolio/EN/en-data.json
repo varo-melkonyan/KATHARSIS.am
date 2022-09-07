@@ -134,16 +134,16 @@
             "img_brand_items": ["../../img/portfolio_img/Abh-poster/Nur-01.jpeg","../../img/portfolio_img/Abh-poster/Nur-02.jpeg","../../img/portfolio_img/Abh-poster/Nur-03.jpeg","../../img/portfolio_img/Abh-poster/Nur-04.jpeg","../../img/portfolio_img/Abh-poster/Nur-05.jpeg","../../img/portfolio_img/Abh-poster/Nur-06.jpeg","../../img/portfolio_img/Abh-poster/Nur-07.jpeg","../../img/portfolio_img/Abh-poster/Nur-08.jpeg"]
         },
         {
-            "title": "LILIA BOOK",
-            "type": "BRANDING",
-            "img_brand": "../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-branding-albom.jpg",
-            "img_brand_items": ["../../img/portfolio_img/Lilia-Girq-branding-albom-01.jpeg,../../img/portfolio_img/Lilia-Girq-branding-albom-02.jpeg,../../img/portfolio_img/Lilia-Girq-branding-albom-03.jpeg,../../img/portfolio_img/Lilia-Girq-branding-albom-04.jpeg,"]
-        },
-        {
             "title": "ԼԻԼԻԱ ԳԻՐՔ",
             "type": "LOGO",
-            "img_brand": "../../img/portfolio_img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM.jpg",
+            "img_brand": "../../img/portfolio_img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM.jpeg",
             "img_brand_items": ["../../img/portfolio_img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM.jpeg","../../img/portfolio_img/LILIA-GIRQ-ALBOM-01.jpeg","../../img/portfolio_img/LILIA-GIRQ-ALBOM-02.jpeg","../../img/portfolio_img/LILIA-GIRQ-ALBOM-03.jpeg","../../img/portfolio_img/LILIA-GIRQ-ALBOM-04.jpeg"]
+        },
+        {
+            "title": "LILIA BOOK",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-branding-albom00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/Lilia-Girq-branding-albom-01.jpeg,../../img/portfolio_img/Lilia-Girq-branding-albom-02.jpeg,../../img/portfolio_img/Lilia-Girq-branding-albom-03.jpeg,../../img/portfolio_img/Lilia-Girq-branding-albom-04.jpeg,"]
         }
     ]
 }
