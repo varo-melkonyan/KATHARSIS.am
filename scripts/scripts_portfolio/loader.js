@@ -8,7 +8,7 @@ const loader = {
 				$("#loadingScreen").hide();
 				$('html').addClass('hide-scrollbar');
 				$("#all_content").css("display", "block");
-			}, 1000);
+			}, 2000);
 		}
 	},
 }

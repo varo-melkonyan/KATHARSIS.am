@@ -32,13 +32,13 @@ const view = {
     }
 };
 
-const viewPfItem = {
-    getPfItem: (title, img_brand_items, video_brand) => {
-        let pfItem = `video_brand
-        `;
-    }
-}
+// const viewPfItem = {
+//     getPfItem: (title, img_brand_items, video_brand) => {
+//         let pfItem = `video_brand
+//         `;
+//     }
+// }
 
 onLoad();
 
-viewPfItem();
+// viewPfItem();

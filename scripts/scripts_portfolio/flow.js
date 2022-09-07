@@ -16,7 +16,12 @@ async function onLoad() {
             viewPfItem.pgf = set.data[event.path[1].id].img_brand_items;
         }
     }
+
+    for (let j = 0; j < document.getElementsByClassName("card").length; j++) {
+      const element = document.getElementsByClassName("card")[j];
+      element.addEventListener('click', onClick);
+    }
+
     
-    window.addEventListener('click', onClick);
     
 }
