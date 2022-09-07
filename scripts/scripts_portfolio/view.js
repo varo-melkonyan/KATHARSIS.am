@@ -11,7 +11,6 @@ const view = {
         `;
 
         $("#content_pf").append(portfolio);
-        // $(`#${0}`).css("margin-left", 0);
         $(`#${i}`).css("margin-left", "1.2vw");
 
         $(`#${i}`).hover(function() {
