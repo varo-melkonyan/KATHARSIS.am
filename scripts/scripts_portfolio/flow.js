@@ -10,5 +10,5 @@ async function onLoad() {
       view.createPortfolio(i, set.data[i].title, set.data[i].type, set.data[i].img_brand)
     }
     
-    loader.toggle();
+    
 }
