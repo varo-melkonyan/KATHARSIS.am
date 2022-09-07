@@ -19,7 +19,7 @@
     }
     #pf_title .pf_title_p{
         color: #000000;
-        font-family: "Roboto", Sans-serif;
+        font-family: Roboto, Sans-serif;
         font-size: 2vw;
         font-weight: 600;
         list-style-type: none;
@@ -35,7 +35,7 @@
     #pf_title .div_seperator_pf {
         margin-top: 21px;
         margin-bottom: 11px;
-        border: solid 3px #437353;
+        border: solid 2px #437353;
         list-style-type: none;
         width: 5vw;
         background: #437353;
@@ -50,5 +50,42 @@
 
     #content_pf img {
         max-width: 20.6vw;
+    }
+
+     #content_pf .card {
+        position: relative;
+        display: inline-block;
+     }
+
+     #content_pf .card:hover {
+
+     }
+
+    .pf_text_holder {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: auto;
+        bottom: 0;
+        left: 0;
+        padding: 15px 20px 10px;
+        background-color: #fff;
+        overflow: hidden;
+        box-sizing: border-box;
+        transition: transform .4s ease-in-out;
+    }
+
+    .pf_text_holder .title{
+        font-size: 2vw;        ;
+        line-height: 1.225em;
+        font-weight: 700;
+        color: #1d1d1d;
+        font-family: Roboto, Sans-serif;
+    }
+
+    .pf_text_holder .type{
+        font-family: sans-serif;
+        font-weight: bold;
+        color: #777;
     }
 }
