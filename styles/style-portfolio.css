@@ -43,7 +43,7 @@
 
     #content_pf {
         padding-top: 2%;
-        display: flex;
+        display: block;
         width: 67%;
         margin: 0 auto;
     }
@@ -55,6 +55,7 @@
      #content_pf .card {
         position: relative;
         display: inline-block;
+        margin-bottom: 1.2vw;
      }
 
     .pf_text_holder {
@@ -68,22 +69,21 @@
         background-color: #fff;
         overflow: hidden;
         box-sizing: border-box;
-        transition: transform 4.4s;
     }
 
     .pf_text_holder .title{
-        font-size: 2vw;        ;
+        font-size: 2vw;
         line-height: 1.225em;
         font-weight: 700;
         color: #1d1d1d;
         font-family: Roboto, Sans-serif;
-        margin: 0;
+        margin: 0.5vw 0 0 0;
     }
 
     .pf_text_holder .type{
         font-family: sans-serif;
         font-weight: bold;
         color: #777;
-        margin: 0;
+        margin: 0 0 0.5vw 0;
     }
 }
