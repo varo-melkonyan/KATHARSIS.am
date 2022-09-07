@@ -21,4 +21,5 @@ const view = {
         }); 
     }
 };
+
 onLoad();
