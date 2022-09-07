@@ -57,22 +57,18 @@
         display: inline-block;
      }
 
-     #content_pf .card:hover {
-
-     }
-
     .pf_text_holder {
         position: absolute;
         display: block;
         width: 100%;
-        height: auto;
+        height: 0;
         bottom: 0;
         left: 0;
-        padding: 15px 20px 10px;
+        padding: 0 20px;
         background-color: #fff;
         overflow: hidden;
         box-sizing: border-box;
-        transition: transform .4s ease-in-out;
+        transition: transform 4.4s;
     }
 
     .pf_text_holder .title{
@@ -81,11 +77,13 @@
         font-weight: 700;
         color: #1d1d1d;
         font-family: Roboto, Sans-serif;
+        margin: 0;
     }
 
     .pf_text_holder .type{
         font-family: sans-serif;
         font-weight: bold;
         color: #777;
+        margin: 0;
     }
 }
