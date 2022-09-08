@@ -76,7 +76,7 @@
             "title": "ՏՈՏԻԿ",
             "type": "BRANDING",
             "img_brand": "../../img/portfolio_img/TOTIK-BRANDING/Totik-00.jpeg",
-            "img_brand_items": ["../../img/portfolio_img/TOTIK-BRANDING/totik-01.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-02.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-03.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-04.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-05.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-06.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-07.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-08.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-09.jpeg"]
+            "img_brand_items": ["../../img/portfolio_img/TOTIK-BRANDING/totik-01.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-02.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-03.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-04.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-05.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-06.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-07.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-08.jpeg"]
         },
         {
             "title": "ПОЛУФАБРИКАТ",
@@ -137,13 +137,13 @@
             "title": "ԼԻԼԻԱ ԳԻՐՔ",
             "type": "LOGO",
             "img_brand": "../../img/portfolio_img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM.jpeg",
-            "img_brand_items": ["../../img/portfolio_img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM.jpeg","../../img/portfolio_img/LILIA-GIRQ-ALBOM-01.jpeg","../../img/portfolio_img/LILIA-GIRQ-ALBOM-02.jpeg","../../img/portfolio_img/LILIA-GIRQ-ALBOM-03.jpeg","../../img/portfolio_img/LILIA-GIRQ-ALBOM-04.jpeg"]
+            "img_brand_items": ["../../img/portfolio_img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM-00.jpg","../../img/portfolio_img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM-01.gif","../../img/portfolio_img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM-02.jpeg","../../img/portfolio_img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM-03.gif","../../img/portfolio_img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM-04.jpeg"]
         },
         {
             "title": "LILIA BOOK",
             "type": "BRANDING",
-            "img_brand": "../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-branding-albom00.jpeg",
-            "img_brand_items": ["../../img/portfolio_img/Lilia-Girq-branding-albom-01.jpeg,../../img/portfolio_img/Lilia-Girq-branding-albom-02.jpeg,../../img/portfolio_img/Lilia-Girq-branding-albom-03.jpeg,../../img/portfolio_img/Lilia-Girq-branding-albom-04.jpeg,"]
+            "img_brand": "../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-00.jpg",
+            "img_brand_items": ["../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-01.jpg","../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-02.jpg","../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-03.jpg","../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-04.jpg"]
         }
     ]
 }
