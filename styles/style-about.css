@@ -1,21 +1,9 @@
 @font-face {
-    font-family: Roboto; 
-    src: url('../fonts/Roboto.ttf');
-  }
+    font-family: Montserrat; 
+    src: url('../fonts/Montserrat.ttf');
+}
   
-  @font-face {
-    font-family: Cambria; 
-    src: url('../fonts/Cambria.ttc');
-  
-  }
-  
-  @font-face {
-    font-family: Trajan;
-    src: url('../fonts/Trajan\ Pro\ 3.otf');
-  
-  }
-  
-  @media screen and (min-width: 1080px) {
+@media screen and (min-width: 1080px) {
     /* what_is_graphic_desgin */
     .what_is_graphic_desgin {
         padding-top: 7%;
@@ -30,13 +18,11 @@
         display: flex;
         align-items: center;
         text-align: left;
-        font-family: Roboto, sans-serif;
+        font-family: Montserrat, sans-serif;
         font-weight: bold;
         padding-bottom: 2%;
         color: #437353;
-        font-family: Roboto, Sans-serif;
         font-size: 26px;
-        font-weight: bold;
         line-height: 1.1em;
     }
     
@@ -63,7 +49,7 @@
     .what_is_graphic_desgin p {
         padding: 0 4vw 0;
         color: #414042;
-        font-family: Roboto, Sans-serif;
+        font-family: Montserrat, sans-serif;
         font-size: 18px;
         font-weight: 400;
     }
@@ -85,13 +71,11 @@
         display: flex;
         align-items: center;
         text-align: left;
-        font-family: Roboto, sans-serif;
+        font-family: Montserrat, sans-serif;
         font-weight: bold;
         padding-bottom: 2%;
         color: #437353;
-        font-family: Roboto, Sans-serif;
         font-size: 26px;
-        font-weight: bold;
         line-height: 1.1em;
     }
     
@@ -118,7 +102,7 @@
     .services_we_provide p {
         padding: 0 4vw 0;
         color: #414042;
-        font-family: Roboto, Sans-serif;
+        font-family: Montserrat, sans-serif;
         font-size: 18px;
         font-weight: 400;
     }
@@ -137,13 +121,11 @@
         display: flex;
         align-items: center;
         text-align: left;
-        font-family: Roboto, sans-serif;
+        font-family: Montserrat, sans-serif;
         font-weight: bold;
         padding-bottom: 2%;
         color: #437353;
-        font-family: Roboto, Sans-serif;
         font-size: 26px;
-        font-weight: bold;
         line-height: 1.1em;
     }
     
@@ -170,7 +152,7 @@
     .we_provide_services_in p {
         padding: 0 4vw 0;
         color: #414042;
-        font-family: Roboto, Sans-serif;
+        font-family: Montserrat, sans-serif;
         font-size: 18px;
         font-weight: 400;
     }
@@ -212,13 +194,11 @@
         display: flex;
         align-items: center;
         text-align: left;
-        font-family: Roboto, sans-serif;
+        font-family: Montserrat, sans-serif;
         font-weight: bold;
         padding-bottom: 2%;
         color: #437353;
-        font-family: Roboto, Sans-serif;
         font-size: 26px;
-        font-weight: bold;
         line-height: 1.1em;
     }
     
@@ -245,7 +225,7 @@
     .we_are_skilled_in p {
         padding: 0 4vw 0;
         color: #414042;
-        font-family: Roboto, Sans-serif;
+        font-family: Montserrat, sans-serif;
         font-size: 18px;
         font-weight: 400;
     }
@@ -281,13 +261,11 @@
         display: flex;
         align-items: center;
         text-align: left;
-        font-family: Roboto, sans-serif;
+        font-family: Montserrat, sans-serif;
         font-weight: bold;
         padding-bottom: 2%;
         color: #437353;
-        font-family: Roboto, Sans-serif;
         font-size: 26px;
-        font-weight: bold;
         line-height: 1.1em;
     }
     
@@ -314,7 +292,7 @@
     .naming_and_logo p {
         padding: 0 4vw 0;
         color: #414042;
-        font-family: Roboto, Sans-serif;
+        font-family: Montserrat, sans-serif;
         font-size: 18px;
         font-weight: 400;
     }

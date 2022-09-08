@@ -1,16 +1,6 @@
 @font-face {
-    font-family: Roboto; 
-    src: url('../fonts/Roboto.ttf');
-}
-  
-@font-face {
-    font-family: Cambria; 
-    src: url('../fonts/Cambria.ttc');  
-}
-  
-@font-face {
-    font-family: Trajan;
-    src: url('../fonts/Trajan\ Pro\ 3.otf');  
+    font-family: Montserrat; 
+    src: url('../fonts/Montserrat.ttf');
 }
   
 @media screen and (min-width: 1080px) {
@@ -35,19 +25,19 @@
 
     .about-school-text h2 {
         color: #437353; 
-        font-family: Roboto, Sans-serif; 
+        font-family: Montserrat, Sans-serif; 
         font-size: 24px; 
         font-weight: bold;
     }
 
     .about-school-text strong {
-        font-family: Roboto, Sans-serif; 
+        font-family: Montserrat, Sans-serif; 
         font-size: 19px; 
         color:#777;
     }
 
     .about-school-text span {
-        font-family: "Roboto", Sans-serif;
+        font-family: Montserrat, Sans-serif;
         font-size: 19px;
         color: #777;
     }
@@ -65,7 +55,7 @@
     }
     
     .graphic_design_school {
-        font-family: "Roboto", Sans-serif;
+        font-family: Montserrat, Sans-serif;
         font-weight: bold;
         line-height: 30px;
         width: 100%;
@@ -81,20 +71,16 @@
     .graphic_design_school a {
         box-shadow: none;
         text-decoration: none;
-        font-family: Roboto, Sans-serif;
+        font-family: Montserrat, Sans-serif;
         font-size: 21px;
         font-weight: bold;
     }
-
-    /* .graphic_design_school_title img{
-        
-    } */
-
+    
     .graphic_design_school .about_more {
         background: #437353;
         padding: 10px;
         display: flex;
-        font-family: Roboto, Sans-serif;
+        font-family: Montserrat, Sans-serif;
         font-size: 21px;
         font-weight: bold;
     }

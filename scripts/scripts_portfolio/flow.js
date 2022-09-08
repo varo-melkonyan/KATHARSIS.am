@@ -1,7 +1,7 @@
 let set = { index: 0 };
 
 async function onLoad() {
-    let path = "../../data/data-portfolio/HY/hy-data.json"
+    let path = "../../data/data-portfolio/EN/en-data.json"
     await $.get(path, function (json) { 
       set.data = json.data;
     });

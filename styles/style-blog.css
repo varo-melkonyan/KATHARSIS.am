@@ -1,16 +1,6 @@
 @font-face {
-    font-family: Roboto; 
-    src: url('../fonts/Roboto.ttf');
-}
-  
-@font-face {
-    font-family: Cambria; 
-    src: url('../fonts/Cambria.ttc');  
-}
-  
-@font-face {
-    font-family: Trajan;
-    src: url('../fonts/Trajan\ Pro\ 3.otf');  
+    font-family: Montserrat; 
+    src: url('../fonts/Montserrat.ttf');
 }
   
 @media screen and (min-width: 1080px) {
@@ -24,7 +14,7 @@
     .comming_soon p {
         display: inline-block;
         color: #000000;
-        font-family: Roboto, Sans-serif;
+        font-family: Montserrat, sans-serif;
         font-size: 7vw;
         font-weight: bold;
         text-align:center;

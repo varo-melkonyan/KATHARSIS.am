@@ -1,18 +1,6 @@
 @font-face {
-  font-family: Roboto; 
-  src: url('../fonts/Roboto.ttf');
-}
-
-@font-face {
-  font-family: Cambria; 
-  src: url('../fonts/Cambria.ttc');
-
-}
-
-@font-face {
-  font-family: Trajan;
-  src: url('../fonts/Trajan\ Pro\ 3.otf');
-
+  font-family: Montserrat; 
+  src: url('../fonts/Montserrat.ttf');
 }
 
 @media screen and (min-width: 1080px) {
@@ -94,7 +82,7 @@
 
   .about_our_agency_title {
     font-size: 1.5vw;
-    font-family: Roboto, sans-serif;
+    font-family: Montserrat, sans-serif;
     display: flex;
     align-items: flex-start;
     line-height: 1;
@@ -212,7 +200,7 @@
     display: flex;
     align-items: center;
     text-align: center;
-    font-family: Roboto, sans-serif;
+    font-family: Montserrat, sans-serif;
     font-size: 1.2vw;
     font-weight: bold;
     padding-bottom: 2%;
@@ -273,7 +261,7 @@
   .div_seperator_our_team {
     display: flex;
     align-items: center;
-    font-family: Roboto, sans-serif;
+    font-family: Montserrat, sans-serif;
     font-size: 1.2vw;
     font-weight: bold;
     padding-bottom: 2%;
@@ -314,7 +302,7 @@
     padding: 10px;
     display: inline-block;
     color: #FFFFFF;
-    font-family: Roboto, sans-serif;
+    font-family: Montserrat, sans-serif;
     font-size: 20px;
     font-weight: 300;
     line-height: 1.2em;
@@ -336,7 +324,7 @@
     align-items: end;
     font-size: 1.1vw;
     color: #808080;
-    font-family: "Roboto", Sans-serif;
+    font-family: Montserrat, Sans-serif;
     font-weight: bold;
     padding-bottom: 1%;
   }

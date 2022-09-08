@@ -13,20 +13,8 @@
 }
 
 @font-face {
-    font-family: Roboto; 
-    src: url('../fonts/Roboto.ttf');
-}
-
-@font-face {
-    font-family: Cambria; 
-    src: url('../fonts/Cambria.ttc');
-
-}
-
-@font-face {
-    font-family: Trajan;
-    src: url('../fonts/Trajan\ Pro\ 3.otf');
-
+    font-family: Montserrat; 
+    src: url('../fonts/Montserrat.ttf');
 }
 
 body {
@@ -37,6 +25,7 @@ body {
 @media screen and (min-width: 1080px) {
     #all_content {
         display: none;
+        font-family: Montserrat, sans-serif;
     }
     #header {
         height: 63px;
@@ -84,7 +73,7 @@ body {
     }
 
     .menu a{
-        font-family: Trajan, "Sun-Serif";
+        font-family: Montserrat, sans-serif;
         font-size: 16px;
         font-weight: bold;
         text-transform: uppercase;
@@ -99,7 +88,7 @@ body {
 
     #language {
         color: #7a7a7a;
-        font-family: Cambria;
+        font-family: Montserrat, sans-serif;
     }
 
     #language:hover {
