@@ -156,7 +156,7 @@
             "6_language": "ՀԱՅ"
         }
     ],
-    "homePage": [
+    "home_page": [
         {
             "0_slide_show": "",
             "1_about_our_agency": "ABOUT<br>OUR AGENCY",
@@ -175,6 +175,16 @@
         },
         {
             "learn_more": "LEARN MORE"
+        }
+    ],
+    "portfolio_page": [
+        {
+            "portfolio_title": "PORTFOLIO"
+        }
+    ],
+    "about_us_page": [
+        {
+            
         }
     ]
 }
