@@ -155,5 +155,26 @@
             "5_blog": "BLOG",
             "6_language": "ՀԱՅ"
         }
+    ],
+    "homePage": [
+        {
+            "0_slide_show": "",
+            "1_about_our_agency": "ABOUT<br>OUR AGENCY",
+            "1_1_about_our_agency": "Katharsis is a design studio creating 2D and 3D computer graphics, including designing logos, creating brand style, 3D modeling (rendering), WEB designs, package design, advert design, etc. We create visual communication for both printed and digital media.",
+            "2_contact_us": "CONTACT US",
+            "3_branding_design_img": "",
+            "3_branding_design_text": "It is generally said that a business can't exist without marketing. Branding is a strategy, while marketing is tactics. Both are extremely important for the development of the business.",
+            "4_web_design_img": "",
+            "4_web_design_text": "When it comes to web design it is important to understand how human perception works. A neatly designed website should be able to attract a customer’s attention to the nicest elements. Web design elements come in variety of forms, but it is essential to choose them according to the field of business. That’s the reason why it is important to pick every detail correctly, such as the color, the font, the geometric shapes, etc.",
+            "5_3d_design_img": "",
+            "5_3d_design_text": "3D modeling is a modern perspective to business development. 3D designs are not only used in games and movies but also in advertising to make the business elements clearer and more comprehensible for viewers.",
+            "6_our_works": "OUR WORKS",
+            "7_our_team": "OUR<br>TEAM",
+            "7_our_team_text": "We have a small team that is going<br>to cooperate with you closely. We are<br>looking forward to working with you.",
+            "8_we_work_with": "WE WORK WITH"
+        },
+        {
+            "learn_more": "LEARN MORE"
+        }
     ]
 }
