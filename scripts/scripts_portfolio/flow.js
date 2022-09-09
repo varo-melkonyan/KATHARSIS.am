@@ -35,8 +35,9 @@ async function onLoad() {
       let pfItem = `
         <img src="${image_path}">
       `;
-      $("#content_pf").append(pfItem);
+      $("#content_pf_item").append(pfItem);
     }
+    // window.location = 'portfolio_items.html';
   }
   
 }
