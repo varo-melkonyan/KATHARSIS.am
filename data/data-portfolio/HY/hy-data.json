@@ -1,24 +1,28 @@
 {
     "data": [
         {
+            "url": "hy/portfolio/artmobile",
             "title": "ArtMobile",
             "type": "ԲՐԵՆԴԻՆԳ",
             "img_brand": "../../img/portfolio_img/ArtMobile-BRANDING/ArtMobile-00.jpeg",
             "img_brand_items": ["../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-01.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-02.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-03.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-04.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-05.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-06.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-07.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-08.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-09.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-010.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-011.jpeg"]
         },
         {
+            "url": "hy/portfolio/stop_terrorism",
             "title": "Stop Terrorism",
             "type": "ՊՈՍՏԵՌ",
             "img_brand": "../../img/portfolio_img/Stop-Terrorism-POSTER/Stop-Terrorism-00.jpeg",
             "img_brand_items": ["../../img/portfolio_img/Stop-Terrorism-POSTER/Stop-Terrorism-01.gif","../../img/portfolio_img/Stop-Terrorism-POSTER/Stop-Terrorism-02.gif","../../img/portfolio_img/Stop-Terrorism-POSTER/Stop-Terrorism-03.jpeg","../../img/portfolio_img/Stop-Terrorism-POSTER/Stop-Terrorism-04.jpeg"]
         },
         {
+            "url": "hy/portfolio/smooth_body",
             "title": "Smooth Body",
             "type": "ԲՐԵՆԴԻՆԳ",
             "img_brand": "../../img/portfolio_img/Smooth-Body-BRANDING/Smooth-Body-00.jpeg",
             "img_brand_items": ["../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-01.jpeg","../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-02.jpeg","../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-03.jpeg","../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-04.jpeg","../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-05.jpeg","../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-06.jpeg","../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-07.jpeg","../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-08.jpeg","../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-09.jpeg"]
         },
         {
+            "url": "hy/portfolio/ernest_karen",
             "title": "Ernest Karen",
             "type": "ԲՐԵՆԴԻՆԳ",
             "img_brand": "../../img/portfolio_img/Ernest-Karen-BRANDING/Ernest-Karen-00.jpeg",
