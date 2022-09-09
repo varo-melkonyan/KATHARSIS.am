@@ -145,5 +145,15 @@
             "img_brand": "../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-00.jpg",
             "img_brand_items": ["../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-01.jpg","../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-02.jpg","../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-03.jpg","../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-04.jpg"]
         }
+    ],
+    "dataHeaderEn": [
+        {
+            "portfolio": "PORTFOLIO",
+            "about_us": "ABOUT US",
+            "contact_us": "CONTACT US",
+            "school": "SCHOOL",
+            "blog": "BLOG",
+            "language": "ՀԱՅ"
+        }
     ]
 }

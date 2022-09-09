@@ -145,5 +145,15 @@
             "img_brand": "../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-00.jpg",
             "img_brand_items": ["../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-01.jpg","../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-02.jpg","../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-03.jpg","../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-04.jpg"]
         }
+    ],
+    "dataHeaderHy": [
+        {
+            "portfolio": "Պորտֆոլիո",
+            "about_us": "Մեր մասին",
+            "contact_us": "Հետադարձ կապ",
+            "school": "Դպրոց",
+            "blog": "Բլոգ",
+            "language": "ENG"
+        }
     ]
 }
