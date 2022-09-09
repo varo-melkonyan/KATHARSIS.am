@@ -184,7 +184,10 @@
     ],
     "about_us_page": [
         {
-            
+            "1_what_is_graphic_design": "WHAT IS GRAPHIC DESIGN<br>WHY IS IT IMPORTANT",
+            "1_what_is_graphic_design_text": "Graphic design is a way of visual communication through typography, photography, and illustrations. It is a type of visual language that helps people to solve problems in a creative way. Graphic design has considerably developed for the past two decades. The demand for graphic designs has grown so much that it is almost impossible to find a business which doesn’t use graphic design or elements of graphic design. At present, graphic design is highly necessary and irreplaceable in every field. Graphic design helps businesses to earn more credibility among customers, it is an essential part of marketing, and increases the business profits.",
+            "2_services_we_provide": "SERVICES<br>WE PROVIDE",
+            "2_services_we_provide_text": "Our job is one of the best and the most creative jobs out there. We undertake large-scale projects, create the impossible and deliver them to you. We provide the following services:<br><br>"
         }
     ]
 }
