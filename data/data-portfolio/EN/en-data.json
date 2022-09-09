@@ -148,12 +148,12 @@
     ],
     "dataHeaderEn": [
         {
-            "portfolio": "PORTFOLIO",
-            "about_us": "ABOUT US",
-            "contact_us": "CONTACT US",
-            "school": "SCHOOL",
-            "blog": "BLOG",
-            "language": "ՀԱՅ"
+            "1_portfolio": "PORTFOLIO",
+            "2_about_us": "ABOUT US",
+            "3_contact_us": "CONTACT US",
+            "4_school": "SCHOOL",
+            "5_blog": "BLOG",
+            "6_language": "ՀԱՅ"
         }
     ]
 }

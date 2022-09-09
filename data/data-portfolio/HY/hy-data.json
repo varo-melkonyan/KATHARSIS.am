@@ -148,12 +148,12 @@
     ],
     "dataHeaderHy": [
         {
-            "portfolio": "Պորտֆոլիո",
-            "about_us": "Մեր մասին",
-            "contact_us": "Հետադարձ կապ",
-            "school": "Դպրոց",
-            "blog": "Բլոգ",
-            "language": "ENG"
+            "1_portfolio": "Պորտֆոլիո",
+            "2_about_us": "Մեր մասին",
+            "3_contact_us": "Հետադարձ կապ",
+            "4_school": "Դպրոց",
+            "5_blog": "Բլոգ",
+            "6_language": "ENG"
         }
     ]
 }
