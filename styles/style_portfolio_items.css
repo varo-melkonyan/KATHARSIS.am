@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Montserrat; 
+    src: url('../fonts/Montserrat.ttf');
+}
+  
+@media screen and (min-width: 1080px) {
+    #pf_title {
+        display: flex;
+        width: 68%;
+        margin: 0 auto;
+        padding-top: 10%;
+        list-style-type: none;
+    }
+
+    #pf_title ul{
+        list-style-type: none;
+    }
+
+    #content_pf_item {
+        display: grid;
+        width: 68%;
+        margin: 0 auto;
+        padding-top: 10%;
+    }
+
+    #content_pf_item img {
+        max-width: 100%;
+    }
+}
