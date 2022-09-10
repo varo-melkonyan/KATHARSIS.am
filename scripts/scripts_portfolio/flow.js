@@ -23,24 +23,13 @@ async function onLoad() {
     localStorage.setItem('currentPf', JSON.stringify(viewPfItem.pgf));
     localStorage.setItem('currentPfTitle', JSON.stringify(set.data[event.path[1].id].title));
     // let currentPf = localStorage.getItem('currentPf');
-    // viewPfItem.currentPf = JSON.parse(currentPf);
-    set_image_path();
+    // viewPfItem.currentPf = JSON.parse(currentPf);    
   }
-
+  $(".img-pf").on('click', () => {
+    window.open("portfolio_items.html","_self");
+});
   for (let j = 0; j < document.getElementsByClassName("img-pf").length; j++) {
     const element = document.getElementsByClassName("img-pf")[j];
     element.addEventListener('click', onClick);
   }
-
-  function set_image_path(){
-    for (let k = 0; k < viewPfItem.pgf.length; k++) {
-      var image_path = `${viewPfItem.pgf[k]}`;
-      let pfItem = `
-        <img src="${image_path}">
-      `;
-      $("#content_pf_item").append(pfItem);
-    }
-
-  }
-  
 }
