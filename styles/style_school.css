@@ -84,4 +84,9 @@
         font-size: 21px;
         font-weight: bold;
     }
+
+    #svglinks {
+        background-color: white;
+        fill: #437353;
+    }
 }
