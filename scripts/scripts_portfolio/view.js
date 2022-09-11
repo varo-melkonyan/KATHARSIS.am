@@ -14,7 +14,8 @@ const view = {
         $(`#${i}`).css("margin-left", "1.2vw");
         
         $(`#${i}`).hover(function() {
-            $(`.pf_text_holder_${i}`).css("height","auto");
+            $(`.pf_text_holder_${i}`).css("transition", "all 0.8s");
+            $(`.pf_text_holder_${i}`).css("height","40%");
             }, function() {
                 $(`.pf_text_holder_${i}`).css("height","0");
         });
