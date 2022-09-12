@@ -11,7 +11,7 @@
     position: relative;
     width: 70%;
     height: 450px;
-    padding-bottom: 30%;
+    margin-bottom: 30%;
   }
 
   .lets_work {
@@ -73,6 +73,7 @@
   #contact_section .your_name #req{
     color: red;
     display: contents;
+    font-size: 1.5vw;
   }
 
   #contact_section input {
@@ -84,7 +85,6 @@
     background-clip: padding-box;
     border: 1px solid #808080;
     border-radius: 0.25rem;
-    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
     max-width: 55%;
     cursor: text;
     padding: 0.7vw;
