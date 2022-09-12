@@ -89,4 +89,13 @@
         background-color: white;
         fill: #437353;
     }
+
+    .shareBtns a #svglinks{
+        max-width: 36px;
+    }
+
+    .shareBtns {
+        display: inline;
+        position: absolute;
+    }
 }
