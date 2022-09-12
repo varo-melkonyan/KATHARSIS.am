@@ -96,6 +96,8 @@
 
     .shareBtns {
         display: inline;
-        position: absolute;
+        align-items: end;
+        text-align: end;
+        width: 20vw;
     }
 }
