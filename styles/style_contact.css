@@ -50,4 +50,43 @@
     font-family: Montserrat, sans-serif;
     font-size: 1.3vw;
   }
+
+  /* contact section */
+  #contact_section {
+    margin-top: 7%;
+  }
+
+  #contact_section .your_name{
+    line-height: 26px;
+    display: flex;
+    width: 100%;
+  }
+
+  #contact_section .your_name .label_name {
+    min-width: 32vw;
+    display: flex;
+    font-size: 1.25vw;
+    align-items: center;
+    font-family: "Asul", sans-serif;
+  }
+
+  #contact_section .your_name #req{
+    color: red;
+    display: contents;
+  }
+
+  #contact_section input {
+    width: 100%;
+    font-size: 0.8vw;
+    line-height: 0.5;
+    color: black;
+    background-image: none;
+    background-clip: padding-box;
+    border: 1px solid #808080;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    max-width: 55%;
+    cursor: text;
+    padding: 0.7vw;
+  }
 }
