@@ -40,6 +40,7 @@
 
     #content_pf img {
         max-width: 20.6vw;
+        cursor: pointer;
     }
 
      #content_pf .card {
