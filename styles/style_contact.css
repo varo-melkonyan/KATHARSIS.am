@@ -89,4 +89,17 @@
     cursor: text;
     padding: 0.7vw;
   }
+
+  .text_area_section {
+    display: inline-block;
+    width: 100%;
+  }
+
+  .text_area_section .label_name{
+    display: flex;
+  }
+
+  .text_area_section .contact_textarea {
+    width: 100%;
+  }
 }
