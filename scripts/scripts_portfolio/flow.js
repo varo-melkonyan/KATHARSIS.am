@@ -21,9 +21,7 @@ async function onLoad() {
   const onClick = (event) => {
     viewPfItem.pgf = set.data[event.path[1].id].img_brand_items;
     localStorage.setItem('currentPf', JSON.stringify(viewPfItem.pgf));
-    localStorage.setItem('currentPfTitle', JSON.stringify(set.data[event.path[1].id].title));
-    // let currentPf = localStorage.getItem('currentPf');
-    // viewPfItem.currentPf = JSON.parse(currentPf);    
+    localStorage.setItem('currentPfTitle', JSON.stringify(set.data[event.path[1].id].title));   
   }
   $(".img-pf").on('click', () => {
     window.open("portfolio_items.html","_self");
