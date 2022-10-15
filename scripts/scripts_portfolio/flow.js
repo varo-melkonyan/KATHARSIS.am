@@ -14,7 +14,7 @@ async function onLoad() {
   });
 
   for (let i = 0; i < set.data.length; i++) {
-    view.createPortfolio(i, set.data[i].title, set.data[i].type, set.data[i].img_brand)
+    view.createPortfolio(i, set.data[i].title, set.data[i].type, set.data[i].img_brand);
   }
   
 
@@ -23,9 +23,11 @@ async function onLoad() {
     localStorage.setItem('currentPf', JSON.stringify(viewPfItem.pgf));
     localStorage.setItem('currentPfTitle', JSON.stringify(set.data[event.path[1].id].title));   
   }
+  
   $(".img-pf").on('click', () => {
     window.open("portfolio_items.html","_self");
-});
+  });
+
   for (let j = 0; j < document.getElementsByClassName("img-pf").length; j++) {
     const element = document.getElementsByClassName("img-pf")[j];
     element.addEventListener('click', onClick);

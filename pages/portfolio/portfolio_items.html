@@ -16,6 +16,16 @@
     <script src="../../scripts/scripts_portfolio/portfolio.js"></script>
 </head>
 <body>
+
+    <script>
+        $(location).attr('href');
+           var bn_pathname = window.location.href;
+            console.log(bn_pathname)
+            var en_pathname = bn_pathname.replace("portfolio_items.html", "portfolio/" + "ae"); 
+            window.location.replace('@Url.Action(en_pathname)');
+            console.log(window.location);
+    </script>
+
     <div class="container" id="loadingScreen">
         <div id="loader">
             <img src="../../img/GIFs/kds_loader.gif" alt="loadpage">
