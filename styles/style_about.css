@@ -233,6 +233,7 @@
     .we_are_skilled_in ul{
         position: relative;
         left: 2%;
+        display: flex;
         padding-top: 10px;
     }
     
