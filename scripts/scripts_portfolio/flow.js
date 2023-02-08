@@ -19,13 +19,13 @@ async function onLoad() {
   
 
   const onClick = (event) => {
-    viewPfItem.pgf = set.data[event.path[1].id].img_brand_items;
+    viewPfItem.pgf = set.data[event.composedPath()[1].id].img_brand_items;
     localStorage.setItem('currentPf', JSON.stringify(viewPfItem.pgf));
-    localStorage.setItem('currentPfTitle', JSON.stringify(set.data[event.path[1].id].title));   
-  }
+    localStorage.setItem('currentPfTitle', JSON.stringify(set.data[event.composedPath()[1].id].title));   
+  };
   
   $(".img-pf").on('click', () => {
-    window.open("portfolio_items.html","_self");
+      window.open("portfolio_items", "_self");
   });
 
   for (let j = 0; j < document.getElementsByClassName("img-pf").length; j++) {
