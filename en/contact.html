@@ -3,37 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <title>Contact us - Katharsis</title>
-    <link rel="icon" type="image/x-icon" href="img/ICON-LOGO/favicon.png">
+    <link rel="icon" type="image/x-icon" href="../img/ICON-LOGO/favicon.png">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <link rel="stylesheet" href="styles/style_header.css">
-    <link rel="stylesheet" href="styles/style_footer.css">
-    <link rel="stylesheet" href="styles/style_contact.css">
-    <link rel="stylesheet" href="styles/swiper.css">
-    <script src="scripts/menu_navigation.js"></script>
-    <script src="scripts/loader.js"></script>
-    <link rel="stylesheet" href="styles/loader.css">
-    <script src="scripts/swiper_images.js"></script>
+    <link rel="stylesheet" href="../styles/style_header.css">
+    <link rel="stylesheet" href="../styles/style_footer.css">
+    <link rel="stylesheet" href="../styles/style_contact.css">
+    <link rel="stylesheet" href="../styles/swiper.css">
+    <script src="../scripts/menu_navigation.js"></script>
+    <script src="../scripts/loader.js"></script>
+    <link rel="stylesheet" href="../styles/loader.css">
+    <script src="../scripts/swiper_images.js"></script>
 </head>
 <body>
     <div class="container" id="loadingScreen">
         <div id="loader">
-            <img src="img/GIFs/kds_loader.gif" alt="loadpage">
+            <img src="../img/GIFs/kds_loader.gif" alt="loadpage">
         </div>
     </div>
 <div id="all_content">
   <div id="header">
       <div class="logo">
-          <a href="index.html">
-              <img src="img\ICON-LOGO\Logo-SVG-Uxankyun.svg">
+          <a href="home">
+              <img src="../img/ICON-LOGO/Logo-SVG-Uxankyun.svg">
           </a></div>
       <nav class="menu">
           <ul>
-              <li><a href="pages/portfolio/portfolio.html" class="fill-text">PORTFOLIO</a></li>
-              <li><a href="about.html" class="fill-text">ABOUT US</a></li>
-              <li><a href="contact.html" class="fill-text active">CONTACT US</a></li>
-              <li><a href="school.html" class="fill-text">SCHOOL</a></li>
-              <li><a href="blog-en.html" class="fill-text">BLOG</a></li>
-              <li id="language_li"><a href="#" id="language">ՀԱՅ</a></li>
+              <li><a href="portfolio" class="fill-text">PORTFOLIO</a></li>
+              <li><a href="about" class="fill-text">ABOUT US</a></li>
+              <li><a href="contact" class="fill-text active">CONTACT US</a></li>
+              <li><a href="school" class="fill-text">SCHOOL</a></li>
+              <li><a href="blog" class="fill-text">BLOG</a></li>
+              <li id="language_li"><a href="../hy/contact" id="language">ՀԱՅ</a></li>
           </ul>
       </nav>
   </div>
@@ -49,8 +49,7 @@
             <p>Tell us about your project, leave your contact information down below, and we will get back to you within 24 hours.</p>
         </div>
         <!-- contact form -->
-        <div>
-        <form id="contact_form" method="post" enctype="multipart/form-data">
+        <form id="contact_form" action="https://formspree.io/f/mlevlkgw" method="POST" enctype="multipart/form-data">
             <div id="contact_section">
                 <div class="your_name">
                     <label class="label_name">YOUR NAME<span id="req">  *</span><br></label>
@@ -97,30 +96,12 @@
                 <div class="text_area_section">
                     <label class="label_name">DESCRIBE YOUR PROJECT AS DETAILED AS POSSIBLE</label><br>
                     <textarea name="textarea_contact" cols="40" rows="10" class="contact_textarea" id="text_area" aria-invalid="false" placeholder="Describe"></textarea><br>
-                    <button class="contact_send_btn" name="submit">Send</button>
+                    <button class="contact_send_btn" onclick="sendEMAIL()">Send</button>
                 </div>
         </form>
-    <?php
-         if(isset($_POST['submit'])){
-            $url = "https://script.google.com/macros/s/AKfycbyQ8sCjeqxh0ztx5C88xk-RQr5joz0-7AieWsmQhTByEYj7xM6bmJc_7N5X8WfnC5aI/exec";
-            $ch = curl_init($url);
-            curl_setopt_array($ch, [
-               CURLOPT_RETURNTRANSFER => true,
-               CURLOPT_FOLLOWLOCATION => true,
-               CURLOPT_POSTFIELDS => http_build_query([
-                  "recipient" => $_POST['email'],
-                  "subject"   => $_POST['subject'],
-                  "body"      => $_POST['body']
-               ])
-            ]);
-            $result = curl_exec($ch);
-            echo $result;
-         }
-         ?>
-    </div>
             <div class="we_waiting">
                 <div class="we_waiting_text"><h2 style="color: #437353; font-family: Montserrat, Sans-serif; font-size: 24px; font-weight: bold">We are waiting for you <img draggable="false" role="img" class="emoji" alt="🙂" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f642.svg"></h2></div>
-                <div class="contact_email_number"><h2 style="color: #808080; font-family: Montserrat, Sans-serif; font-size: 14px; font-weight: bold; line-height: 1.1em;">+374 77 537 573<br>katharsisdesignstudio@gmail.com<br>support@katharsis.am</h2></div>
+                <div class="contact_email_number"><h2 style="color: #808080; font-family: Montserrat, Sans-serif; font-size: 14px; font-weight: bold; line-height: 1.1em;">+374 33 33 13 17<br>katharsisdesignstudio@gmail.com<br>support@katharsis.am</h2></div>
             </div>
         </div>
     </div>
@@ -129,9 +110,9 @@
   <!-- footer -->
     <footer id="footer">
         <div class="link-pages">
-        <a href="https://www.instagram.com/katharsis.am/" class="icon fa-instagram" target="_blank"><img src="img/ICON-LOGO/In-Footer.png" width="30px"></a>
-        <a href="https://www.facebook.com/katharsis.am" class="icon fa-facebook" target="_blank"><img src="img/ICON-LOGO/FB-Footer.png" width="30px"></a>
-        <a href="https://www.behance.net/KATHARSIS_Design/" class="icon fa-behance" target="_blank"><img src="img/ICON-LOGO/Be-Footer.png" width="30px"></a>
+        <a href="https://www.instagram.com/katharsis.am/" class="icon fa-instagram" target="_blank"><img src="../img/ICON-LOGO/In-Footer.png" width="30px"></a>
+        <a href="https://www.facebook.com/katharsis.am" class="icon fa-facebook" target="_blank"><img src="../img/ICON-LOGO/FB-Footer.png" width="30px"></a>
+        <a href="https://www.behance.net/KATHARSIS_Design/" class="icon fa-behance" target="_blank"><img src="../img/ICON-LOGO/Be-Footer.png" width="30px"></a>
         </div>
         <div id="copyright">
             <script>

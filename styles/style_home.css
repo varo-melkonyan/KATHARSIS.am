@@ -231,6 +231,9 @@
     position: relative;
     width: 100%;
     padding-bottom: 10%;
+    margin: 0;
+    z-index: 1;
+    box-sizing: content-box;
   }
 
   #swiper ul li{
@@ -246,6 +249,13 @@
     position: relative;
     width: 100%;
     justify-content: end;
+    animation: slide 30s infinite;
+  }
+  
+  @keyframes slide{
+    0%{
+        transform: translateX(80%);
+    }
   }
 
    /* our_team */

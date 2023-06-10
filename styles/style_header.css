@@ -34,7 +34,7 @@ body {
         padding-left: 50px;
         display: table;
         width: 100%;
-        position: fixed;
+        /*position: fixed;*/
         z-index: 99;
         transition: top 0.8s;
         box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 15%);
