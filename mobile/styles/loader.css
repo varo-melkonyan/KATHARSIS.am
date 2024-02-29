@@ -1,0 +1,37 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+#loader {
+    display: flex;
+}
+
+#loadingScreen {
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 99;
+    background: white;
+    width: 100%;
+    height: 100vh;
+}
+
+@keyframes loading {
+    0% {
+        height: 0;
+    }
+
+    50% {
+        height: 100%;
+    }
+    
+    100% {
+        height: 0;
+    }
+}
+
+#loader img{
+    width: 8vw;
+    height: 8vw;
+}

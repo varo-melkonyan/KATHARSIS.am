@@ -1,0 +1,41 @@
+@font-face {
+    font-family: Montserrat; 
+    src: url('../fonts/Montserrat.ttf');
+}
+  
+@media screen and (min-width: 1080px) {
+    #pf_title {
+        display: flex;
+        width: 68%;
+        margin: 0 auto;
+        padding-top: 5%;
+    }
+
+    #pf_title .div_seperator_pf {
+        margin-top: 21px;
+        margin-bottom: 11px;
+        border: solid 2px #437353;
+        list-style-type: none;
+        width: 5vw;
+        background: #437353;
+    }
+
+    #pf_title .pf_title_p{
+        color: #000000;
+        font-family: Montserrat, Sans-serif;
+        font-size: 2vw;
+        font-weight: 600;
+        list-style-type: none;
+    }
+
+    #content_pf_item {
+        display: grid;
+        width: 67%;
+        margin: 0 auto;
+        padding-top: 2%;
+    }
+
+    #content_pf_item img {
+        max-width: 100%;
+    }
+}

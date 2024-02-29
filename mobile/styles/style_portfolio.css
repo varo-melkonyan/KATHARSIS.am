@@ -1,0 +1,80 @@
+@font-face {
+    font-family: Montserrat; 
+    src: url('../fonts/Montserrat.ttf');
+}
+  
+@media screen and (min-width: 1080px) {
+    #header {
+        top: 0;
+    }
+    #pf_title .pf_title_p{
+        color: #000000;
+        font-family: Montserrat, Sans-serif;
+        font-size: 2vw;
+        font-weight: 600;
+        list-style-type: none;
+    }
+
+    #pf_title {
+        display: flex;
+        padding-top: 5%;
+        width: 67%;
+        margin: 0 auto;
+    }
+
+    #pf_title .div_seperator_pf {
+        margin-top: 21px;
+        margin-bottom: 11px;
+        border: solid 2px #437353;
+        list-style-type: none;
+        width: 5vw;
+        background: #437353;
+    }
+
+    #content_pf {
+        padding-top: 2%;
+        display: block;
+        width: 67%;
+        margin: 0 auto;
+    }
+
+    #content_pf img {
+        max-width: 20.6vw;
+        cursor: pointer;
+    }
+
+     #content_pf .card {
+        position: relative;
+        display: inline-block;
+        margin-bottom: 1.2vw;
+     }
+
+    .pf_text_holder {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 0;
+        bottom: 0;
+        left: 0;
+        padding: 0 20px;
+        background-color: #fff;
+        overflow: hidden;
+        box-sizing: border-box;
+    }
+
+    .pf_text_holder .title{
+        font-size: 2vw;
+        line-height: 1.225em;
+        font-weight: 700;
+        color: #1d1d1d;
+        font-family: Montserrat, Sans-serif;
+        margin: 0.5vw 0 0 0;
+    }
+
+    .pf_text_holder .type{
+        font-family: Montserrat, sans-serif;
+        font-weight: bold;
+        color: #777;
+        margin: 0 0 0.5vw 0;
+    }
+}

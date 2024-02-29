@@ -1,0 +1,222 @@
+{
+    "data": [
+        {
+            "url": "portfolio/artmobile",
+            "title": "ArtMobile",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/ArtMobile-BRANDING/ArtMobile-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-01.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-02.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-03.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-04.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-05.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-06.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-07.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-08.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-09.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-010.jpeg","../../img/portfolio_img/ArtMobile-BRANDING/Art-Mobile-011.jpeg"]
+        },
+        {
+            "url": "portfolio/stop_terrorism",
+            "title": "Stop Terrorism",
+            "type": "POSTER",
+            "img_brand": "../../img/portfolio_img/Stop-Terrorism-POSTER/Stop-Terrorism-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/Stop-Terrorism-POSTER/Stop-Terrorism-01.gif","../../img/portfolio_img/Stop-Terrorism-POSTER/Stop-Terrorism-02.gif","../../img/portfolio_img/Stop-Terrorism-POSTER/Stop-Terrorism-03.jpeg","../../img/portfolio_img/Stop-Terrorism-POSTER/Stop-Terrorism-04.jpeg"]
+        },
+        {
+            "url": "portfolio/smooth_body",
+            "title": "Smooth Body",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/Smooth-Body-BRANDING/Smooth-Body-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-01.jpeg","../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-02.jpeg","../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-03.jpeg","../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-04.jpeg","../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-05.jpeg","../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-06.jpeg","../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-07.jpeg","../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-08.jpeg","../../img/portfolio_img/Smooth-Body-BRANDING/Smoot-body-09.jpeg"]
+        },
+        {
+            "url": "portfolio/ernest_karen",
+            "title": "Ernest Karen",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/Ernest-Karen-BRANDING/Ernest-Karen-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/Ernest-Karen-BRANDING/Ernest-Karen-01.jpeg","../../img/portfolio_img/Ernest-Karen-BRANDING/Ernest-Karen-02.jpeg","../../img/portfolio_img/Ernest-Karen-BRANDING/Ernest-Karen-03.jpeg","../../img/portfolio_img/Ernest-Karen-BRANDING/Ernest-Karen-04.jpeg","../../img/portfolio_img/Ernest-Karen-BRANDING/Ernest-Karen-05.jpeg","../../img/portfolio_img/Ernest-Karen-BRANDING/Ernest-Karen-06.jpeg"]
+        },
+        {
+            "url": "portfolio/gq_electrician",
+            "title": "GQ Electrician",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/GQ-Electrician-BRANDING/GQ-Electrician-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/GQ-Electrician-BRANDING/GQ-01.jpeg","../../img/portfolio_img/GQ-Electrician-BRANDING/GQ-02.jpeg","../../img/portfolio_img/GQ-Electrician-BRANDING/GQ-03.jpeg","../../img/portfolio_img/GQ-Electrician-BRANDING/GQ-04.jpeg","../../img/portfolio_img/GQ-Electrician-BRANDING/GQ-05.jpeg","../../img/portfolio_img/GQ-Electrician-BRANDING/GQ-06.jpeg","../../img/portfolio_img/GQ-Electrician-BRANDING/GQ-07.jpeg","../../img/portfolio_img/GQ-Electrician-BRANDING/GQ-08.jpeg","../../img/portfolio_img/GQ-Electrician-BRANDING/GQ-09.jpeg"]
+        },
+        {
+            "url": "portfolio/august_five",
+            "title": "August Five",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/August-Five-BRANDING/August-Five-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/August-Five-BRANDING/Arcat-01.jpeg","../../img/portfolio_img/August-Five-BRANDING/Arcat-02.jpeg","../../img/portfolio_img/August-Five-BRANDING/Arcat-03.jpeg","../../img/portfolio_img/August-Five-BRANDING/Arcat-04.jpeg","../../img/portfolio_img/August-Five-BRANDING/Arcat-05.jpeg","../../img/portfolio_img/August-Five-BRANDING/Arcat-06.jpeg","../../img/portfolio_img/August-Five-BRANDING/Arcat-07.jpeg","../../img/portfolio_img/August-Five-BRANDING/Arcat-08.jpeg"]
+        },
+        {
+            "url": "portfolio/to_sky",
+            "title": "To Sky",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/To-Sky-BRANDING/To-Sky-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/To-Sky-BRANDING/ToSky-01.jpeg","../../img/portfolio_img/To-Sky-BRANDING/ToSky-02.jpeg","../../img/portfolio_img/To-Sky-BRANDING/ToSky-03.jpeg","../../img/portfolio_img/To-Sky-BRANDING/ToSky-04.jpeg","../../img/portfolio_img/To-Sky-BRANDING/ToSky-05.jpeg","../../img/portfolio_img/To-Sky-BRANDING/ToSky-06.jpeg","../../img/portfolio_img/To-Sky-BRANDING/ToSky-07.jpeg","../../img/portfolio_img/To-Sky-BRANDING/ToSky-08.jpeg","../../img/portfolio_img/To-Sky-BRANDING/ToSky-09.jpeg","../../img/portfolio_img/To-Sky-BRANDING/ToSky-010.jpeg"]
+        },
+        {
+            "url": "portfolio/mons",
+            "title": "Mons",
+            "type": "LOGO",
+            "img_brand": "../../img/portfolio_img/Mons-LOGO/Mons-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/Mons-LOGO/Mons-01.jpeg","../../img/portfolio_img/Mons-LOGO/Mons-02.jpeg","../../img/portfolio_img/Mons-LOGO/Mons-03.jpeg","../../img/portfolio_img/Mons-LOGO/Mons-04.jpeg","../../img/portfolio_img/Mons-LOGO/Mons-05.jpeg","../../img/portfolio_img/Mons-LOGO/Mons-06.jpeg","../../img/portfolio_img/Mons-LOGO/Mons-07.jpeg"]
+        },
+        {
+            "url": "portfolio/boom_wash",
+            "title": "Boom Wash",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/Boom-Wash-BRANDING/Boom-Wash-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/Boom-Wash-BRANDING/Boom-Wash-01.jpeg","../../img/portfolio_img/Boom-Wash-BRANDING/Boom-Wash-02.jpeg","../../img/portfolio_img/Boom-Wash-BRANDING/Boom-Wash-03.jpeg","../../img/portfolio_img/Boom-Wash-BRANDING/Boom-Wash-04.jpeg","../../img/portfolio_img/Boom-Wash-BRANDING/Boom-Wash-05.jpeg","../../img/portfolio_img/Boom-Wash-BRANDING/Boom-Wash-06.jpeg","../../img/portfolio_img/Boom-Wash-BRANDING/Boom-Wash-07.jpeg","../../img/portfolio_img/Boom-Wash-BRANDING/Boom-Wash-08.jpeg"]
+        },
+        {
+            "url": "portfolio/stip",
+            "title": "СТиП",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/STIP-BRANDING/Stip-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/STIP-BRANDING/Stip-01.jpeg","../../img/portfolio_img/STIP-BRANDING/Stip-02.jpeg","../../img/portfolio_img/STIP-BRANDING/Stip-03.jpeg","../../img/portfolio_img/STIP-BRANDING/Stip-04.jpeg","../../img/portfolio_img/STIP-BRANDING/Stip-05.jpeg","../../img/portfolio_img/STIP-BRANDING/Stip-06.jpeg","../../img/portfolio_img/STIP-BRANDING/Stip-07.jpeg","../../img/portfolio_img/STIP-BRANDING/Stip-08.jpeg"]
+        },
+        {
+            "url": "portfolio/avis",
+            "title": "AVIS",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/AVIS-BRANDING/Avis-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/AVIS-BRANDING/Avis-01.jpeg","../../img/portfolio_img/AVIS-BRANDING/Avis-02.jpeg","../../img/portfolio_img/AVIS-BRANDING/Avis-03.jpeg","../../img/portfolio_img/AVIS-BRANDING/Avis-04.jpeg","../../img/portfolio_img/AVIS-BRANDING/Avis-05.jpeg","../../img/portfolio_img/AVIS-BRANDING/Avis-06.jpeg","../../img/portfolio_img/AVIS-BRANDING/Avis-07.jpeg"]
+        },
+        {
+            "url": "portfolio/katik",
+            "title": "ԿԱԹԻԿ",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/Katik-BRANDING/Katik-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/Katik-BRANDING/Katik-01.jpeg","../../img/portfolio_img/Katik-BRANDING/Katik-02.jpeg"]
+        },
+        {
+            "url": "portfolio/totik",
+            "title": "ՏՈՏԻԿ",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/TOTIK-BRANDING/Totik-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/TOTIK-BRANDING/totik-01.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-02.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-03.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-04.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-05.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-06.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-07.jpeg","../../img/portfolio_img/TOTIK-BRANDING/totik-08.jpeg"]
+        },
+        {
+            "url": "portfolio/polufabrikat",
+            "title": "ПОЛУФАБРИКАТ",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/POLUFABRIKAT-BRANDING/POLUFABRIKAT-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/POLUFABRIKAT-BRANDING/Mis-01.jpeg","../../img/portfolio_img/POLUFABRIKAT-BRANDING/Mis-02.jpeg","../../img/portfolio_img/POLUFABRIKAT-BRANDING/Mis-03.jpeg","../../img/portfolio_img/POLUFABRIKAT-BRANDING/Mis-04.jpeg","../../img/portfolio_img/POLUFABRIKAT-BRANDING/Mis-05.jpeg","../../img/portfolio_img/POLUFABRIKAT-BRANDING/Mis-06.jpeg"],
+            "video_brand": "../../img/portfolio_img/POLUFABRIKAT-BRANDING/Mis-video-07.mp4"
+        },
+        {
+            "url": "portfolio/3d_design",
+            "title": "Եռաչափ դիզայն",
+            "type": "3D Design",
+            "img_brand": "../../img/portfolio_img/3D-INTERIOR/3D-INTERIOR-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/3D-INTERIOR/Sink-00.jpeg","../../img/portfolio_img/3D-INTERIOR/Sink-01.jpeg","../../img/portfolio_img/3D-INTERIOR/Sink-02.jpeg","../../img/portfolio_img/3D-INTERIOR/Sink-03.jpeg","../../img/portfolio_img/3D-INTERIOR/Sink-04.jpeg","../../img/portfolio_img/3D-INTERIOR/Sink-05.jpeg","../../img/portfolio_img/3D-INTERIOR/Sink-06.jpeg","../../img/portfolio_img/3D-INTERIOR/Sink-07.jpeg","../../img/portfolio_img/3D-INTERIOR/Sink-08.jpeg","../../img/portfolio_img/3D-INTERIOR/Sink-09.jpeg","../../img/portfolio_img/3D-INTERIOR/Sink-010.jpeg","../../img/portfolio_img/3D-INTERIOR/Sink-011.jpeg","../../img/portfolio_img/3D-INTERIOR/Sink-012.jpeg"]
+        },
+        {
+            "url": "portfolio/3d_character",
+            "title": "3D-CHARACTER",
+            "type": "3D Design",
+            "img_brand": "../../img/portfolio_img/3D-CHARACTER/3D-CHARACTER-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/3D-CHARACTER/3D-CHARACTER-ART-01.jpeg","../../img/portfolio_img/3D-CHARACTER/3D-CHARACTER-ART-02.jpeg","../../img/portfolio_img/3D-CHARACTER/3D-CHARACTER-ART-03.jpeg","../../img/portfolio_img/3D-CHARACTER/3D-CHARACTER-ART-04.jpeg","../../img/portfolio_img/3D-CHARACTER/3D-CHARACTER-ART-05.jpeg","../../img/portfolio_img/3D-CHARACTER/3D-CHARACTER-ART-06.jpeg","../../img/portfolio_img/3D-CHARACTER/3D-CHARACTER-ART-07.jpeg","../../img/portfolio_img/3D-CHARACTER/3D-CHARACTER-ART-08.jpeg","../../img/portfolio_img/3D-CHARACTER/3D-CHARACTER-ART-09.jpeg"]
+        },
+        {
+            "url": "portfolio/lock",
+            "title": "LOCK",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/LOCK-BRANDING/LOCK-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/LOCK-BRANDING/Lock-01.jpeg","../../img/portfolio_img/LOCK-BRANDING/Lock-02.jpeg","../../img/portfolio_img/LOCK-BRANDING/Lock-03.jpeg","../../img/portfolio_img/LOCK-BRANDING/Lock-04.jpeg","../../img/portfolio_img/LOCK-BRANDING/Lock-05.jpeg","../../img/portfolio_img/LOCK-BRANDING/Lock-06.jpeg"]
+        },
+        {
+            "url": "portfolio/julsi_silver",
+            "title": "Julsi Silver",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/Julsi-Silver-BRANDING/Julsi-Silver-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/Julsi-Silver-BRANDING/Julsi-Silver-01.jpeg","../../img/portfolio_img/Julsi-Silver-BRANDING/Julsi-Silver-02.jpeg","../../img/portfolio_img/Julsi-Silver-BRANDING/Julsi-Silver-03.jpeg","../../img/portfolio_img/Julsi-Silver-BRANDING/Julsi-Silver-04.jpeg","../../img/portfolio_img/Julsi-Silver-BRANDING/Julsi-Silver-05.jpeg","../../img/portfolio_img/Julsi-Silver-BRANDING/Julsi-Silver-06.jpeg"]
+        },
+        {
+            "url": "portfolio/village_tour",
+            "title": "VILLAGE TOUR",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/VILLAGE-TOUR/VILLAGE-TOUR-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/VILLAGE-TOUR/VILLAGE-TOUR-00.jpeg","../../img/portfolio_img/VILLAGE-TOUR/VILLAGE-TOUR-01.jpeg","../../img/portfolio_img/VILLAGE-TOUR/VILLAGE-TOUR-02.jpeg","../../img/portfolio_img/VILLAGE-TOUR/VILLAGE-TOUR-03.jpeg","../../img/portfolio_img/VILLAGE-TOUR/VILLAGE-TOUR-04.jpeg","../../img/portfolio_img/VILLAGE-TOUR/VILLAGE-TOUR-05.jpeg","../../img/portfolio_img/VILLAGE-TOUR/VILLAGE-TOUR-06.jpeg","../../img/portfolio_img/VILLAGE-TOUR/VILLAGE-TOUR-07.jpeg","../../img/portfolio_img/VILLAGE-TOUR/VILLAGE-TOUR-08.jpeg"]
+        },
+        {
+            "url": "portfolio/katharsis",
+            "title": "KATHARSIS",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/KATHARSIS-BRANDING/KATHARSIS-BRANDING-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/KATHARSIS-BRANDING/KATHARSIS-01.jpeg","../../img/portfolio_img/KATHARSIS-BRANDING/KATHARSIS-02.jpeg","../../img/portfolio_img/KATHARSIS-BRANDING/KATHARSIS-03.jpeg","../../img/portfolio_img/KATHARSIS-BRANDING/KATHARSIS-04.jpeg","../../img/portfolio_img/KATHARSIS-BRANDING/KATHARSIS-05.jpeg","../../img/portfolio_img/KATHARSIS-BRANDING/KATHARSIS-06.jpeg","../../img/portfolio_img/KATHARSIS-BRANDING/KATHARSIS-07.jpeg","../../img/portfolio_img/KATHARSIS-BRANDING/KATHARSIS-08.jpeg","../../img/portfolio_img/KATHARSIS-BRANDING/KATHARSIS-09.jpeg"]
+        },
+        {
+            "url": "portfolio/giorgadze",
+            "title": "ԳԻՈՐԳԱՁԵ",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/Giorgadze-BRANDING/Giorgadze-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/Giorgadze-BRANDING/Limonad-01.jpeg","../../img/portfolio_img/Giorgadze-BRANDING/Limonad-02.jpeg","../../img/portfolio_img/Giorgadze-BRANDING/Limonad-03.jpeg","../../img/portfolio_img/Giorgadze-BRANDING/Limonad-04.jpeg","../../img/portfolio_img/Giorgadze-BRANDING/Limonad-05.jpeg"]
+        },
+        {
+            "url": "portfolio/abh",
+            "title": "ԱԲՀ",
+            "type": "POSTER",
+            "img_brand": "../../img/portfolio_img/Abh-poster/abh-00.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/Abh-poster/Nur-01.jpeg","../../img/portfolio_img/Abh-poster/Nur-02.jpeg","../../img/portfolio_img/Abh-poster/Nur-03.jpeg","../../img/portfolio_img/Abh-poster/Nur-04.jpeg","../../img/portfolio_img/Abh-poster/Nur-05.jpeg","../../img/portfolio_img/Abh-poster/Nur-06.jpeg","../../img/portfolio_img/Abh-poster/Nur-07.jpeg","../../img/portfolio_img/Abh-poster/Nur-08.jpeg"]
+        },
+        {
+            "url": "portfolio/lilia_girq",
+            "title": "ԼԻԼԻԱ ԳԻՐՔ",
+            "type": "LOGO",
+            "img_brand": "../../img/portfolio_img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM.jpeg",
+            "img_brand_items": ["../../img/portfolio_img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM-00.jpg","../../img/portfolio_img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM-01.gif","../../img/portfolio_img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM-02.jpeg","../../img/portfolio_img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM-03.gif","../../img/portfolio_img/LILIA-GIRQ-LOGO/LILIA-GIRQ-ALBOM-04.jpeg"]
+        },
+        {
+            "url": "portfolio/lilia_book",
+            "title": "LILIA BOOK",
+            "type": "BRANDING",
+            "img_brand": "../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-00.jpg",
+            "img_brand_items": ["../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-01.jpg","../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-02.jpg","../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-03.jpg","../../img/portfolio_img/LILIA-GIRQ-BRANDING/Lilia-Girq-04.jpg"]
+        }
+    ],
+    "dataHeaderEn": [
+        {
+            "1_portfolio": "PORTFOLIO",
+            "2_about_us": "ABOUT US",
+            "3_contact_us": "CONTACT US",
+            "4_school": "SCHOOL",
+            "5_blog": "BLOG",
+            "6_language": "ՀԱՅ"
+        }
+    ],
+    "home_page": [
+        {
+            "0_slide_show": "",
+            "1_about_our_agency": "ABOUT<br>OUR AGENCY",
+            "1_1_about_our_agency": "Katharsis is a design studio creating 2D and 3D computer graphics, including designing logos, creating brand style, 3D modeling (rendering), WEB designs, package design, advert design, etc. We create visual communication for both printed and digital media.",
+            "2_contact_us": "CONTACT US",
+            "3_branding_design_img": "",
+            "3_branding_design_text": "It is generally said that a business can't exist without marketing. Branding is a strategy, while marketing is tactics. Both are extremely important for the development of the business.",
+            "4_web_design_img": "",
+            "4_web_design_text": "When it comes to web design it is important to understand how human perception works. A neatly designed website should be able to attract a customer’s attention to the nicest elements. Web design elements come in variety of forms, but it is essential to choose them according to the field of business. That’s the reason why it is important to pick every detail correctly, such as the color, the font, the geometric shapes, etc.",
+            "5_3d_design_img": "",
+            "5_3d_design_text": "3D modeling is a modern perspective to business development. 3D designs are not only used in games and movies but also in advertising to make the business elements clearer and more comprehensible for viewers.",
+            "6_our_works": "OUR WORKS",
+            "7_our_team": "OUR<br>TEAM",
+            "7_our_team_text": "We have a small team that is going<br>to cooperate with you closely. We are<br>looking forward to working with you.",
+            "8_we_work_with": "WE WORK WITH"
+        },
+        {
+            "learn_more": "LEARN MORE"
+        }
+    ],
+    "portfolio_page": [
+        {
+            "portfolio_title": "PORTFOLIO"
+        }
+    ],
+    "about_us_page": [
+        {
+            "1_what_is_graphic_design": "WHAT IS GRAPHIC DESIGN<br>WHY IS IT IMPORTANT",
+            "1_what_is_graphic_design_text": "Graphic design is a way of visual communication through typography, photography, and illustrations. It is a type of visual language that helps people to solve problems in a creative way. Graphic design has considerably developed for the past two decades. The demand for graphic designs has grown so much that it is almost impossible to find a business which doesn’t use graphic design or elements of graphic design. At present, graphic design is highly necessary and irreplaceable in every field. Graphic design helps businesses to earn more credibility among customers, it is an essential part of marketing, and increases the business profits.",
+            "2_services_we_provide": "SERVICES<br>WE PROVIDE",
+            "2_services_we_provide_text": "Our job is one of the best and the most creative jobs out there. We undertake large-scale projects, create the impossible and deliver them to you. We provide the following services:<br><br><span style='color: #437353'>Designing a company style</span><br>Creating, building a logo and its application, picking colors, color control, color balance, spacing, picking a font, creating elements.<br><br><span style='color: #437353'>Print documents of business design</span><br>Business cards, flyers, booklets, templates, envelopes, file folders, notebooks, ID badges, and others documents upon request.<br><br><span style='color: #437353'>Designing marketing materials</span><br>T-shirts, caps, pens, cups, USB flash drives and other items upon request.<br><br><span style='color: #437353'>Website design</span>Online shops, news, informational, entertainment, commercial websites and applications (considering the latest technological developments we can create 3 different versions for your website: for computer desktop, for tablets, and mobile).<br><br><span style='color: #437353'>Poster design</span><br>Social, commercial, formative banners, set of posters, scrolling and motion banners and billboards.<br><br><span style='color: #437353'>3D design</span><br>Modeling and rendering of interior, exterior, apartment buildings, video game and movie characters and environments, visual effects, and commercial items.",
+            "3_we_provide_services_in": "Armenia, Russia, the USA, the UAE, Europe and China",
+            "3_1_we_provide_services_in": ["","","","","",""],
+            "4_we_are_skilled_in": "The software is just a tool in graphic design",
+            "4_1_we_are_skilled_in": ["","","","","","","","","","","","","","","","","",""],
+            "5_naming_and_logo": "<span style='font-weight: bold'KATHARSIS</span>The name of our brand comes from Latin and doesn’t have its translation in many languages. The word KATHARSIS is mostly used in the original Latin form. Katharsis is an emotional state. It is the purification of emotions through art. It is when the person’s imagination and taste is on the same level as the work of art giving them pleasure and helping them feel peace of mind.<br><br>This defines the work of our studio. We create merely good, correct, and efficient works that correspond to the worldview and imagination of our clients. Besides the brand name, our logo has a big role as well when it comes to impressing people. It is easy to recognize and remember both consciously and subconsciously.<br><br>The logo has been created in a minimalistic style and has a great meaning behind it. It is a bridge mimicking the geometrical design of Armenian bridges. It represents an object connecting two dots. In this case it portrays the connection of the achievements in art and design and the unification of old and new styles making it clearer for the person to understand art."
+        }
+    ]
+}

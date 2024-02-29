@@ -1,0 +1,164 @@
+.hide-scrollbar ::-webkit-scrollbar {
+    display: block;
+    width: 10px;
+    background-color: silver;
+}
+
+.hide-scrollbar ::-webkit-scrollbar-track {
+    background-color: silver;
+}
+
+.hide-scrollbar ::-webkit-scrollbar-thumb {
+    background-color: #437353;
+}
+
+@font-face {
+    font-family: Montserrat; 
+    src: url('../../fonts/Montserrat.ttf');
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+@media only screen and (min-width: 722px) {
+    body {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
+
+    #all_content {
+        display: none;
+        font-family: Montserrat, sans-serif;
+    }
+    #header {
+        height: 18vw;
+        box-sizing: border-box;
+        background: #ffffff;
+        display: flex;
+        width: 100%;
+        position: fixed;
+        z-index: 99;
+        transition: top 0.8s;
+        box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 15%);
+    }
+
+    #header .logo {
+        width: 30%;
+        position: absolute;
+        display: flex;
+        height: 100%;
+    }
+
+    #header .logo a {
+        margin: auto;
+        margin-left: 25%;
+    }
+
+    #header .logo a img {
+        height: 13.5vw;
+        position: relative;
+        transition: 1.3s ease;
+    }
+
+    #header .logo a img:hover {
+        transition: 1.3s ease;
+        transform: rotate(10deg);
+    }
+
+    .fsmfe-wrapper input[type=checkbox] {
+        display: none;
+    }
+
+    .icon-bars {    
+        margin-left: auto;
+        width: 40px;
+        height: 40px;
+        display: block;
+        position: relative;
+        z-index: 1999;
+        cursor: pointer;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+
+    .icon-bars .icon-bar {
+        background-color: #000000;
+        height: 4px;
+    }
+
+    .icon-bars .bar-bottom {
+        margin-top: -10px;
+    }
+
+    .icon-bars .bar-bottom {
+        margin-top: 10px;
+    }
+
+    .menu {
+        width: 70%;
+        position: absolute;
+        left: 20%;
+        top: 5px;
+        right: 15%;
+    }
+
+    .menu .active {
+        color: #437353;
+    }
+
+    .menu ul {
+        text-align: right;
+    }
+    .menu ul li {
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .menu a{
+        font-family: Montserrat, sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #000000;
+        padding: 0px 10px 0px 10px;
+        text-decoration-color: #ffffff;
+    }
+
+    #language_li {
+        padding-left: 50px;
+    }
+
+    #language {
+        color: #7a7a7a;
+        font-family: Montserrat, sans-serif;
+    }
+
+    #language:hover {
+        color: #437353;
+        text-decoration-color: #ffffff;
+    }
+
+    .menu a:hover {
+        color: #437353;
+        text-decoration-color: #437353;
+        transition: 0.3s ease;
+        text-transform: none;
+    }
+    .menu_about a:hover{
+        text-decoration-color: #ffffff;
+    }
+    .menu .menu_active_a {
+        text-decoration-color: #000000;
+    }
+}

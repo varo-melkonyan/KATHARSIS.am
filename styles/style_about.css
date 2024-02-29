@@ -2,7 +2,13 @@
     font-family: Montserrat; 
     src: url('../fonts/Montserrat.ttf');
 }
-  
+
+@media screen and (max-width: 1079px) { 
+    body {
+        display: none;
+    }
+}
+
 @media screen and (min-width: 1080px) {
     /* what_is_graphic_desgin */
     .what_is_graphic_desgin {
