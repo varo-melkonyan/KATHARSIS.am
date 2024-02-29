@@ -233,6 +233,16 @@
     padding-bottom: 10%;
   }
 
+  #swiper ul{
+    animation: slide 30s infinite;
+  }
+
+  @keyframes slide{
+    0%{
+        transform: translateX(170%);
+    }
+  }
+
   #swiper ul li{
     display: inline-block;
   }
