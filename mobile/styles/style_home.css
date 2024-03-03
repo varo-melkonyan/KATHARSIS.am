@@ -24,7 +24,7 @@
     right: 0;
     cursor: pointer;
     position: absolute;
-    top: 50%;
+    top: 40%;
     width: 40px;
     height: 40px;
     padding: 7px 0 0 16px;
@@ -39,7 +39,7 @@
   .prev {
     cursor: pointer;
     position: absolute;
-    top: 50%;
+    top: 40%;
     width: 40px;
     height: 40px;
     padding: 7px 0 0 13.5px;
@@ -68,7 +68,7 @@
 
   /* about_our_agency_section */
   .about_our_agency_section {
-    padding-top: 5%;
+    top: 22vw;
     margin: auto;
     position: relative;
     width: 70%;
