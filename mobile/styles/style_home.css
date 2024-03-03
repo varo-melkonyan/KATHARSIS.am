@@ -1,6 +1,6 @@
 @font-face {
   font-family: Montserrat; 
-  src: url('../fonts/Montserrat.ttf');
+  src: url('../../fonts/Montserrat.ttf');
 }
 
 @media screen and (max-width: 720px) {
