@@ -71,20 +71,18 @@
     top: 22vw;
     margin: auto;
     position: relative;
-    width: 70%;
-    height: 450px;
+    width: 85%;
     padding-bottom: 30%;
   }
 
   .about_our_agency {
-    width: 22vw;
-    display: inline-block;
+    width: 100%;
   }
 
   .about_our_agency_title {
-    font-size: 1.5vw;
+    font-size: 3vw;
     font-family: Montserrat, sans-serif;
-    display: flex;
+    display: inline-grid;
     align-items: flex-start;
     line-height: 1;
   }
@@ -95,8 +93,8 @@
   }
 
   .about_our_agency_title:not(:empty)::before {
-    border: solid 0.12vw #437353;
-    max-width: 4.1vw;
+    border: solid 0.32vw #437353;
+    width: 11.1vw;
     background: #437353;
     margin-right: 5%;
     margin-top: 5%;
@@ -105,15 +103,17 @@
   .arrow_anim {
     position: relative; 
     float: right;
-    max-width: 15.5vw;
+    width: 25.5vw;
     top: 7vw;
     right: 10%;
   }
 
   /* branding_design_section */
   .branding_design_section {
-    left: 0;
-    width: 70%;
+    top: 40vw;
+    position: relative;
+    width: 85%;
+    margin: auto;
     display: flex;
     padding-bottom: 10%;
   }

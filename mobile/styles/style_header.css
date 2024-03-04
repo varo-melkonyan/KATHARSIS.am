@@ -34,7 +34,6 @@ body {
         margin: 0;
         padding: 0;
         overflow-x: hidden;
-        position: fixed;
     }
 
     #all_content {
