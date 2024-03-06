@@ -18,4 +18,13 @@ function showSlides(n) {
         slides[i].style.display = "none";  
     }
     slides[slideIndex-1].style.display = "block";  
+    window.addEventListener('scroll', function() {
+        var scrollPosition = window.scrollY;
+    
+        if (scrollPosition === 0) {
+           slides[slideIndex-1].style.display = "block";  
+
+        }  
+    });
 }
+
