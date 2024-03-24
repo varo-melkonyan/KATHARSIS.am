@@ -1,9 +1,13 @@
 @font-face {
     font-family: Montserrat; 
-    src: url('../fonts/Montserrat.ttf');
-}
+    src: url('../../fonts/Montserrat.ttf');
+  }
   
-@media screen and (min-width: 1080px) {
+@media screen and (max-width: 720px) {
+    * {
+        box-sizing: border-box;
+    }
+
     /* what_is_graphic_desgin */
     .what_is_graphic_desgin {
         padding-top: 7%;

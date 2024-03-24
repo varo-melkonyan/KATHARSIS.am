@@ -1,12 +1,17 @@
 @font-face {
     font-family: Montserrat; 
-    src: url('../fonts/Montserrat.ttf');
-}
+    src: url('../../fonts/Montserrat.ttf');
+  }
   
-@media screen and (min-width: 1080px) {
+@media screen and (max-width: 720px) {
+    * {
+        box-sizing: border-box;
+    }
+
     #header {
         top: 0;
     }
+    
     #pf_title .pf_title_p{
         color: #000000;
         font-family: Montserrat, Sans-serif;

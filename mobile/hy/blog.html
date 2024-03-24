@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Բլոգ - Katharsis</title>
     <link rel="icon" type="image/x-icon" href="../img/ICON-LOGO/favicon.png">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -21,14 +22,17 @@
             <img src="../img/GIFs/kds_loader.gif" alt="loadpage">
         </div>
     </div>
-<div id="all_content">
+  <div id="all_content">
   <div id="header">
-      <div class="logo">
-          <a href="home">
-              <img src="../img/ICON-LOGO/Logo-SVG-Uxankyun.svg">
-          </a></div>
-      <nav class="menu">
-          <ul>
+    <div class="logo">
+        <a href="home">
+            <img src="../img/ICON-LOGO/Logo-SVG-Uxankyun.svg">
+        </a>
+    </div>
+    <input class="side-menu" type="checkbox" id="side-menu"/>
+    <label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
+    <nav class="nav">
+    <ul class="menu">
               <li><a href="portfolio" class="fill-text">ՊՈՐՏՖՈԼԻՈ</a></li>
               <li><a href="about" class="fill-text">ՄԵՐ ՄԱՍԻՆ</a></li>
               <li><a href="contact" class="fill-text">ՀԵՏԱԴԱՐՁ ԿԱՊ</a></li>
@@ -43,21 +47,20 @@
     <p>Շուտով</p>
     <img src="../img/blog-img/Software-comming-soon.jpeg" alt="comming_soon">
   </div>
-  <!--  -->
-  <!-- footer -->
-  <footer id="footer">
-      <div class="link-pages">
-        <a href="https://www.instagram.com/katharsis.am/" class="icon fa-instagram" target="_blank"><img src="../img/ICON-LOGO/In-Footer.png" width="30px"></a>
-        <a href="https://www.facebook.com/katharsis.am" class="icon fa-facebook" target="_blank"><img src="../img/ICON-LOGO/FB-Footer.png" width="30px"></a>
-        <a href="https://www.behance.net/KATHARSIS_Design/" class="icon fa-behance" target="_blank"><img src="../img/ICON-LOGO/Be-Footer.png" width="30px"></a>
-      </div>
-      <div id="copyright">
-          <script>
-              let d = new Date();
-              $("#copyright").text("© 2019 - " + d.getFullYear() + " KATHARSIS. " + "All Rights Reserved.");
-          </script>
-      </div>
-  </footer>
 </div>
+    <!-- footer -->
+    <footer id="footer">
+        <div class="link-pages">
+            <a href="https://www.instagram.com/katharsis.am/" class="icon fa-instagram" target="_blank"><img src="../img/ICON-LOGO/In-Footer.png" width="30px"></a>
+            <a href="https://www.facebook.com/katharsis.am" class="icon fa-facebook" target="_blank"><img src="../img/ICON-LOGO/FB-Footer.png" width="30px"></a>
+            <a href="https://www.behance.net/KATHARSIS_Design/" class="icon fa-behance" target="_blank"><img src="../img/ICON-LOGO/Be-Footer.png" width="30px"></a>
+        </div>
+        <div id="copyright">
+            <script>
+                let d = new Date();
+                $("#copyright").text("© 2019 - " + d.getFullYear() + " KATHARSIS. " + "All Rights Reserved.");
+            </script>
+        </div>
+    </footer>
 </body>
 </html>
