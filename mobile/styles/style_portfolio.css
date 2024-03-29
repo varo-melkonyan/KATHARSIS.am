@@ -15,36 +15,36 @@
     #pf_title .pf_title_p{
         color: #000000;
         font-family: Montserrat, Sans-serif;
-        font-size: 2vw;
+        font-size: 7vw;
         font-weight: 600;
         list-style-type: none;
     }
 
     #pf_title {
         display: flex;
-        padding-top: 5%;
-        width: 67%;
+        top: 18vw;
+        width: 80%;
         margin: 0 auto;
+        position: relative;
     }
 
     #pf_title .div_seperator_pf {
-        margin-top: 21px;
-        margin-bottom: 11px;
-        border: solid 2px #437353;
+        border: solid 1.5px #437353;
         list-style-type: none;
-        width: 5vw;
+        width: 22vw;
         background: #437353;
     }
 
     #content_pf {
-        padding-top: 2%;
         display: block;
-        width: 67%;
+        width: 80%;
+        top: 23vw;
+        position: relative;
         margin: 0 auto;
     }
 
     #content_pf img {
-        max-width: 20.6vw;
+        max-width: 24.7vw;
         cursor: pointer;
     }
 
@@ -82,4 +82,37 @@
         color: #777;
         margin: 0 0 0.5vw 0;
     }
+
+    #footer {
+        top: 30vw;
+        position: relative;
+        background: black;
+        left: 0;
+        width: 100%;
+        height: 20vw;
+        display: flex;
+      }
+    
+      #footer #copyright {
+        width: 100%;
+        position: absolute;
+        margin: 15% auto;
+        color: white;
+        text-align: center;
+        font-size: 2.5vw;
+      }
+    
+      #footer .link-pages {
+        width: 100%;
+        margin: 4% auto 0 auto;
+        position: absolute;
+        text-align: center;
+      }
+    
+      #footer .link-pages a img {
+        height: 6vw;
+        width: 6vw;
+        margin-right: 10px;
+        border: none;
+      }
 }
