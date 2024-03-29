@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home - Katharsis</title>
     <link rel="icon" type="image/x-icon" href="../img/ICON-LOGO/favicon.png">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <link rel="stylesheet" href="../styles/style_header.css">
-    <link rel="stylesheet" href="../styles/style_footer.css">
     <link rel="stylesheet" href="../styles/style_home.css">
     <link rel="stylesheet" href="../styles/swiper.css">
     <script src="../scripts/menu_navigation.js"></script>
@@ -28,91 +28,91 @@
               <img src="../img/ICON-LOGO/Logo-SVG-Uxankyun.svg">
           </a>
       </div>
-      <nav class="menu">
-          <ul>
+      <input class="side-menu" type="checkbox" id="side-menu"/>
+      <label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
+      <nav class="nav">
+      <ul class="menu">
               <li><a href="portfolio" class="fill-text">PORTFOLIO</a></li>
               <li><a href="about" class="fill-text">ABOUT US</a></li>
               <li><a href="contact" class="fill-text">CONTACT US</a></li>
               <li><a href="school" class="fill-text">SCHOOL</a></li>
               <li><a href="blog" class="fill-text">BLOG</a></li>
-              <li id="language_li"><a href="../hy/home" id="language">ՀԱՅ</a></li>
+              <li id="language_li"><a href="../en/home" id="language">ՀԱՅ</a></li>
           </ul>
       </nav>
   </div>
   <!-- image slider -->
   <div class="slideshow-container">
+    <div class="mySlides fade">
+        <img src="../img/home-slide/nkarreng.png" style="width:100%">
+      </div>
+<!--         
       <div class="mySlides fade">
-          <img src="../img/home-slide/image1.PNG" style="width:100%">
-        </div>
-        
-        <div class="mySlides fade">
-          <img src="../img/home-slide/image2.PNG" style="width:100%">
-        </div>
-        
-        <!-- <div class="mySlides fade">
-          <img src="img_mountains_wide.jpg" style="width:100%">
-        </div> -->
-        
-        <a class="prev" onclick="plusSlides(-1)">❮</a>
-        <a class="next" onclick="plusSlides(1)">❯</a>
-        <!-- slider js -->
-        <script src="../scripts/slider-home.js"></script>    
-  </div>
+        <img src="../img/home-slide/image2.PNG" style="width:100%">
+      </div> -->
+      
+      <!-- <div class="mySlides fade">
+        <img src="img_mountains_wide.jpg" style="width:100%">
+      </div> -->
+      
+      <!-- <a class="prev" onclick="plusSlides(-1)">❮</a>
+      <a class="next" onclick="plusSlides(1)">❯</a> -->
+      <!-- slider js -->
+      <!-- <script src="../scripts/slider-home.js"></script>     -->
+</div>
   <!-- about_our_agency_section -->
   <div class="about_our_agency_section">
     <div class="about_our_agency">
-      <h1 class="about_our_agency_title">ABOUT<br>OUR AGENCY<br><br></h1>
-      <div style="left: 25%; position: relative;">
-        <span style="font-size: 1.171875vw; font-weight: 400; color: #437353; width: 500px;">Katharsis is a design studio creating 2D and 3D computer graphics, including designing logos, creating brand style, 3D modeling (rendering), WEB designs, package design, advert design, etc. <br>We create visual communication for both printed and digital media.</span>
-        <p><a href="portfolio" style="color: #808080; font-size: 1.171875vw; font-weight: 400; text-decoration: none;">Learn more ></a></p>
+      <h1 class="about_our_agency_title"><br>ABOUT<br>OUR AGENCY<br><br></h1>
+      <div style="position: relative;">
+        <span style="font-size: 3vw; font-weight: 400; color: #437353; display: flex;">Katharsis is a design studio creating 2D and 3D computer graphics, including designing logos, creating brand style, 3D modeling (rendering), WEB designs, package design, advert design, etc. <br>We create visual communication for both printed and digital media.</span>
+        <p><a href="portfolio" style="color: #808080; font-size: 4vw; font-weight: 400; text-decoration: none;">Learn more ></a></p>
       </div>
     </div>
       <div class="arrow_anim">
-        <img src="../img/GIFs/arrow_anim.gif" style="width: 10.5vw;">
-        <span style="display: table; margin: 0 auto; margin-top: 0.5vw;"><a href="contact" style="color: #808080; font-size: 1vw; font-weight: bold; text-decoration: none;">CONTACT US ></a></span>
+        <img src="../img/GIFs/arrow_anim.gif" style="width: 25.5vw;">
+        <span style="display: table; margin: 0 auto; margin-top: 0.5vw;"><a href="contact" style="color: #808080; font-size: 2vw; font-weight: bold; text-decoration: none;">CONTACT US ></a></span>
       </div>
     </div>
-  </div>
-  <!--  -->
 <!-- branding_design_section -->
   <div class="branding_design_section">
     <div class="branding_design">
-      <img src="../img/home-img/branding_design.png">
+      <img src="../img/home-img/en/branding_design.png">
     </div>
     <div class="branding_design_text">
-      <span style="font-size: 1.171875vw; font-weight: 400; color: #437353; width: 500px;">It is generally said that a business can't exist without marketing. Branding is a strategy, while marketing is tactics. <br>Both are extremely important for the development of the business.</span>
-      <p><a href="portfolio" style="color: #808080; font-size: 1.171875vw; font-weight: 400; text-decoration: none;">Learn more ></a></p>
+      <span style="font-size: 3vw; font-weight: 400; color: #437353; width: 500px;">It is generally said that a business can't exist without marketing. Branding is a strategy, while marketing is tactics. <br>Both are extremely important for the development of the business.</span>
+      <p><a href="portfolio" style="color: #808080; font-size: 4vw; font-weight: 400; text-decoration: none;">Learn more ></a></p>
     </div>
   </div>
-  <!--  -->
+</div>
+
   <!-- web_design_section -->
   <div class="web_design_section">
     <div class="web_design">
-      <img src="../img/home-img/web_design.png">
+      <img src="../img/home-img/en/web_design.png">
     </div>
     <div class="web_design_text">
-      <span style="font-size: 1.171875vw; font-weight: 400; color: #437353; width: 500px;">When it comes to web design it is important to understand how human perception works. A neatly designed website should be able to attract a customer’s attention to the nicest elements. Web design elements come in variety of forms, but it is essential to choose them according to the field of business. That’s the reason why it is important to pick every detail correctly, such as the color, the font, the geometric shapes, etc.</span>
-      <p><a href="portfolio" style="color: #808080; font-size: 1.171875vw; font-weight: 400; text-decoration: none;">Learn more ></a></p>
+      <span style="font-size: 3vw; font-weight: 400; color: #437353; width: 500px;">When it comes to web design it is important to understand how human perception works. A neatly designed website should be able to attract a customer’s attention to the nicest elements. Web design elements come in variety of forms, but it is essential to choose them according to the field of business. That’s the reason why it is important to pick every detail correctly, such as the color, the font, the geometric shapes, etc.</span>
+      <p><a href="portfolio" style="color: #808080; font-size: 4vw; font-weight: 400; text-decoration: none;">Learn more ></a></p>
     </div>
   </div>
-  <!--  -->
   <!-- treeD_design_section -->
   <div class="treeD_design_section">
     <div class="treeD_design">
-      <img src="../img/home-img/3d_design.png">
+      <img src="../img/home-img/en/3d_design.png">
     </div>
     <div class="treeD_design_text">
-      <span style="font-size: 1.171875vw; font-weight: 400; color: #437353; width: 500px;">3D modeling is a modern perspective to business development. 3D designs are not only used in games and movies but also in advertising to make the business elements clearer and more comprehensible for viewers.</span>
-      <p><a href="portfolio" style="color: #808080; font-size: 1.171875vw; font-weight: 400; text-decoration: none;">Learn more ></a></p>
+      <span style="font-size: 3vw; font-weight: 400; color: #437353; width: 500px;">3D modeling is a modern perspective to business development. 3D designs are not only used in games and movies but also in advertising to make the business elements clearer and more comprehensible for viewers.</span>
+      <p><a href="portfolio" style="color: #808080; font-size: 4vw; font-weight: 400; text-decoration: none;">Learn more ></a></p>
     </div>
   </div>
-  <!--  -->
   
   <!-- our works -->
   <div class="our_works">
     <div class="our_works_div">
       <div class="div_seperator_our_works">OUR WORKS</div>
   </div>
+</div>
      <!-- our works image swiper -->
     <div id="swiper">
       <ul>
@@ -127,9 +127,6 @@
         <li><img src="../img/home-img/swiper-images/Glavni.jpg"></li>
       </ul>
     </div>
-  </div>
-  <!--  -->
-
   <!-- OUR team -->
   <div class="our_team">
     <div class="our_team_div">
@@ -137,13 +134,11 @@
     </div>
     <div class="our-team-content">
       <div class="green">
-        <span>We have a small team that is going <br>to cooperate with you closely. We are <br>looking forward to working with you.</span>
+        <span>We have a small team that is going to cooperate with you closely. We are looking forward to working with you.</span>
       </div>
       <div class="grey"></div>
     </div>
   </div>
-  <!--  -->
-
   <!-- WE WORK WITH -->
   <div class="we_work_with">
     <div class="we_work_with_div">
@@ -158,8 +153,6 @@
       </ul>
     </div>
   </div>
-  <!--  -->
-
   <!-- footer -->
   <footer id="footer">
       <div class="link-pages">
