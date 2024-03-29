@@ -134,7 +134,7 @@
         font-weight: bold;
         padding-bottom: 2%;
         color: #437353;
-        font-size: 26px;
+        font-size: 4vw;
         line-height: 1.1em;
     }
     
@@ -170,11 +170,10 @@
         position: relative;
         left: 2%;
         padding-top: 10px;
-        max-width: 92%;
     }
     
       .we_provide_services_in ul li img{
-        max-width: 8vw;
+        max-width: 22vw;
         transition: all .2s ease-in-out;
     }
     
@@ -210,7 +209,7 @@
         font-weight: bold;
         padding-bottom: 2%;
         color: #437353;
-        font-size: 26px;
+        font-size: 4vw;
         line-height: 1.1em;
     }
     
@@ -242,14 +241,14 @@
     }
 
     .we_are_skilled_in ul{
+        margin: 0 auto;
         position: relative;
         left: 2%;
-        display: flex;
         padding-top: 10px;
     }
     
       .we_are_skilled_in ul li img{
-        max-width: 3vw;
+        max-width: 16vw;
         transition: all .2s ease-in-out;
     }
     
@@ -269,7 +268,7 @@
     }
 
     .naming_and_logo_div {
-        width: 70%;
+        width: 80%;
         margin: 0 auto;
     }
 
@@ -281,7 +280,7 @@
         font-weight: bold;
         padding-bottom: 2%;
         color: #437353;
-        font-size: 26px;
+        font-size: 4vw;
         line-height: 1.1em;
     }
     
