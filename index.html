@@ -20,7 +20,8 @@
         window.location.replace('/mobile/en/home');
     }
     else if(screen.width >= 1080){
-      document.getElementsByTagName('body').style = 'display: block';
+      document.getElementsByTagName('body')[0].style = 'display: block';
+      console.log("waf");
     }
 
     function clearCookiesAndCache() {
