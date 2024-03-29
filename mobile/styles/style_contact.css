@@ -1,29 +1,33 @@
 @font-face {
-    font-family: Montserrat; 
-    src: url('../fonts/Montserrat.ttf');
+  font-family: Montserrat; 
+  src: url('../../fonts/Montserrat.ttf');
 }
+
+@media screen and (max-width: 720px) {
+  * {
+      box-sizing: border-box;
+  }
   
-@media screen and (min-width: 1080px) {
     /* lets_work_section */
   .lets_work_section {
-    padding-top: 5%;
-    
-    height: 450px;
-    margin-bottom: 30%;
+    max-width: 100%;
+    position: relative;
+    margin: auto;
+    top: 22vw;
   }
 
   .lets_work {
     display: inline-block;
+    width: 100%;
   }
 
   .lets_work_title {
-    font-size: 1.7vw;
+    font-size: 4vw;
     font-family: Montserrat, sans-serif;
     display: flex;
     align-items: flex-start;
     line-height: 1;
     color: #437353;
-    width: 22vw;
   }
 
   .lets_work_title::before {
@@ -32,21 +36,17 @@
   }
 
   .lets_work_title:not(:empty)::before {
-    border: solid 0.12vw #437353;
-    max-width: 4vw;
+    border: solid 1.5px #437353;
+    max-width: 6vw;
     background: #437353;
     margin-right: 5%;
     margin-top: 5%;
   }
 
-  .lets_work_section .lets_work_text{
-    margin-left: 7%;
-  }
-
   .lets_work_section .lets_work_text p{
     color: #437353;
     font-family: Montserrat, sans-serif;
-    font-size: 1.3vw;
+    font-size: 3.5vw;
   }
 
   /* contact section */
@@ -54,16 +54,10 @@
     margin-top: 7%;
   }
 
-  #contact_section .your_name{
-    line-height: 26px;
-    display: flex;
-    width: 100%;
-  }
-
   #contact_section .your_name .label_name {
     min-width: 32vw;
     display: flex;
-    font-size: 1.25vw;
+    font-size: 3.25vw;
     align-items: center;
     font-family: "Asul", sans-serif;
   }
@@ -71,21 +65,18 @@
   #contact_section .your_name #req{
     color: red;
     display: contents;
-    font-size: 1.5vw;
+    font-size: 3.5vw;
   }
 
   #contact_section input {
     width: 100%;
-    font-size: 0.8vw;
-    line-height: 0.5;
     color: black;
     background-image: none;
     background-clip: padding-box;
     border: 1px solid #808080;
     border-radius: 0.25rem;
-    max-width: 55%;
     cursor: text;
-    padding: 0.7vw;
+    padding: 1.5vw;
   }
 
   .text_area_section {
@@ -96,13 +87,12 @@
   .text_area_section .label_name{
     display: flex;
     font-family: "Asul", sans-serif;
-    font-size: 1.25vw;
   }
 
   .text_area_section .contact_textarea {
     min-width: 100%;
     max-width: 100%;
-    font-size: 0.8vw;
+    font-size: 3vw;
     padding: 0.7vw;
     resize: none;
     border: 1px solid #808080;
@@ -112,7 +102,6 @@
 
   .text_area_section .contact_send_btn {
     border-radius: 0.25rem;
-    margin-top: -60px;
     max-width: 100%;
     width: 100%;
     color: #ffffff;
@@ -127,16 +116,15 @@
     user-select: none;
     -webkit-transition: all .4s ease;
     transition: all .4s ease;
-    font-size: 0.8vw;
+    font-size: 4vw;
     background-color: #313636;
     border: 0 solid #000;
     cursor: pointer;
-    padding: 20px;
+    padding: 10px;
   }
 
   .we_waiting {
     margin-top: 5%;
-    display: flex;
     margin-bottom: 5%;
   }
 
@@ -152,16 +140,44 @@
     padding: 0 !important;
   }
 
-  .we_waiting_text {
-    width: 50%;
-  }
-
   .contact_email_number {
-    width: 50%;
     text-align: end;
   }
 
   .contact_map iframe {
     filter: brightness( 66% ) contrast( 200% ) saturate( 0% ) blur( 0px ) hue-rotate( 0deg );
+  }
+
+  #footer {
+    top: 30vw;
+    position: relative;
+    background: black;
+    left: 0;
+    width: 100%;
+    height: 20vw;
+    display: flex;
+  }
+
+  #footer #copyright {
+    width: 100%;
+    position: absolute;
+    margin: 15% auto;
+    color: white;
+    text-align: center;
+    font-size: 2.5vw;
+  }
+
+  #footer .link-pages {
+    width: 100%;
+    margin: 4% auto 0 auto;
+    position: absolute;
+    text-align: center;
+  }
+
+  #footer .link-pages a img {
+    height: 6vw;
+    width: 6vw;
+    margin-right: 10px;
+    border: none;
   }
 }
