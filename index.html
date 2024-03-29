@@ -13,8 +13,36 @@
     <script src="scripts/swiper_images.js"></script>
     <script src="scripts/loader.js"></script>
     <link rel="stylesheet" href="styles/loader.css">
-
 </head>
+<script>
+  window.onload = function () {
+    if(screen.width <= 720) {
+        window.location.replace('/mobile/en/home');
+    }
+    else if(screen.width >= 1080){
+      document.getElementsByTagName('body').style = 'display: block';
+    }
+
+    function clearCookiesAndCache() {
+    var cookies = document.cookie.split("; ");
+    for (var i = 0; i < cookies.length; i++) {
+        var cookie = cookies[i];
+        var eqPos = cookie.indexOf("=");
+        var name = eqPos > -1 ? cookie.substr(0, eqPos) : cookie;
+        document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/";
+    }
+
+    if (window.localStorage) {
+        window.localStorage.clear();
+    }
+
+    if (window.sessionStorage) {
+        window.sessionStorage.clear();
+    }
+}
+clearCookiesAndCache();
+}
+</script>
 <body>
   <div class="container" id="loadingScreen">
     <div id="loader">
