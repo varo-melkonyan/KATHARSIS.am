@@ -72,7 +72,7 @@
     top: 22vw;
     margin: auto;
     position: relative;
-    width: 90%;
+    width: 80%;
     padding-bottom: 30%;
   }
 
@@ -185,7 +185,7 @@
   /* our_works */
   .our_works {
     top: 55vw;
-    width: 90%;
+    width: 80%;
     position: relative;
     display: flex;
     padding-bottom: 10%;
@@ -270,7 +270,7 @@
    }
 
    .our_team_div {
-    width: 90%;
+    width: 80%;
     margin: 0 auto;
   }
 
@@ -330,7 +330,7 @@
   .we_work_with {
     top: 50vw;
     position: relative;
-    width: 90%;
+    width: 80%;
     margin: auto;
     padding-bottom: 10%;
   }

@@ -10,12 +10,11 @@
 
     /* what_is_graphic_desgin */
     .what_is_graphic_desgin {
-        padding-top: 7%;
-    }
-
-    .what_is_graphic_desgin_div {
-        width: 70%;
-        margin: 0 auto;
+        max-width: 100%;
+        position: relative;
+        margin: auto;
+        top: 25vw;
+        width: 80%;
     }
 
     .div_seperator_what_is_graphic_desgin {
@@ -26,7 +25,7 @@
         font-weight: bold;
         padding-bottom: 2%;
         color: #437353;
-        font-size: 26px;
+        font-size: 4vw;
         line-height: 1.1em;
     }
     
@@ -37,38 +36,41 @@
     }
     
     .div_seperator_what_is_graphic_desgin:not(:empty)::before {
-        border: solid 2px;
+        border: solid 1.5px;
         max-width: 5%;
         background: #414042;
         margin-right: 1%;
     }
     
     .div_seperator_what_is_graphic_desgin:not(:empty)::after {
-        border: solid 2px;
+        border: solid 1.5px;
         max-width: 100%;
         background: #414042;
         margin-left: 1%;
     }
 
     .what_is_graphic_desgin p {
-        padding: 0 4vw 0;
         color: #414042;
         font-family: Montserrat, sans-serif;
-        font-size: 18px;
+        font-size: 3.5vw;
         font-weight: 400;
     }
 
      /* SERVICES WE PROVIDE */
      .services_we_provide {
-        margin-top: 5%;
-        padding-top: 2%;
-        padding-bottom: 1%;
         background-color: #E6E7E8;
+        max-width: 100%;
+        position: relative;
+        margin: auto;
+        top: 35vw;
+        width: 100%;
     }
 
     .services_we_provide_div {
-        width: 70%;
+        padding-top: 5%;
+        width: 80%;
         margin: 0 auto;
+        padding-bottom: 2%;
     }
 
     .div_seperator_services_we_provide {
@@ -79,7 +81,7 @@
         font-weight: bold;
         padding-bottom: 2%;
         color: #437353;
-        font-size: 26px;
+        font-size: 4vw;
         line-height: 1.1em;
     }
     
@@ -90,34 +92,37 @@
     }
     
     .div_seperator_services_we_provide:not(:empty)::before {
-        border: solid 2px;
+        border: solid 1.5px;
         max-width: 5%;
         background: #414042;
         margin-right: 1%;
     }
     
     .div_seperator_services_we_provide:not(:empty)::after {
-        border: solid 2px;
+        border: solid 1.5px;
         max-width: 100%;
         background: #414042;
         margin-left: 1%;
     }
 
     .services_we_provide p {
-        padding: 0 4vw 0;
         color: #414042;
         font-family: Montserrat, sans-serif;
-        font-size: 18px;
+        font-size: 3.5vw;
         font-weight: 400;
     }
 
     /* WE PROVIDE SERVICES IN */
     .we_provide_services_in {
-        padding-top: 7%;
+        max-width: 100%;
+        position: relative;
+        margin: auto;
+        top: 45vw;
+        width: 100%;
     }
 
     .we_provide_services_in_div {
-        width: 70%;
+        width: 80%;
         margin: 0 auto;
     }
 
@@ -140,24 +145,23 @@
     }
     
     .div_seperator_we_provide_services_in:not(:empty)::before {
-        border: solid 2px;
+        border: solid 1.5px;
         max-width: 5%;
         background: #414042;
         margin-right: 1%;
     }
     
     .div_seperator_we_provide_services_in:not(:empty)::after {
-        border: solid 2px;
+        border: solid 1.5px;
         max-width: 100%;
         background: #414042;
         margin-left: 1%;
     }
 
     .we_provide_services_in p {
-        padding: 0 4vw 0;
         color: #414042;
         font-family: Montserrat, sans-serif;
-        font-size: 18px;
+        font-size: 3.5vw;
         font-weight: 400;
     }
 
@@ -186,11 +190,15 @@
 
     /* WE ARE SKILLED IN */
     .we_are_skilled_in {
-        padding-top: 7%;
+        max-width: 100%;
+        position: relative;
+        margin: auto;
+        top: 55vw;
+        width: 100%;
     }
 
     .we_are_skilled_in_div {
-        width: 70%;
+        width: 80%;
         margin: 0 auto;
     }
 
@@ -213,24 +221,23 @@
     }
     
     .div_seperator_we_are_skilled_in:not(:empty)::before {
-        border: solid 2px;
+        border: solid 1.5px;
         max-width: 5%;
         background: #414042;
         margin-right: 1%;
     }
     
     .div_seperator_we_are_skilled_in:not(:empty)::after {
-        border: solid 2px;
+        border: solid 1.5px;
         max-width: 100%;
         background: #414042;
         margin-left: 1%;
     }
 
     .we_are_skilled_in p {
-        padding: 0 4vw 0;
         color: #414042;
         font-family: Montserrat, sans-serif;
-        font-size: 18px;
+        font-size: 3.5vw;
         font-weight: 400;
     }
 
@@ -254,7 +261,11 @@
 
     /* naming_and_logo */
     .naming_and_logo {
-        padding-top: 7%;
+        max-width: 100%;
+        position: relative;
+        margin: auto;
+        top: 65vw;
+        width: 100%;
     }
 
     .naming_and_logo_div {
@@ -281,25 +292,56 @@
     }
     
     .div_seperator_naming_and_logo:not(:empty)::before {
-        border: solid 2px;
+        border: solid 1.5px;
         max-width: 5%;
         background: #414042;
         margin-right: 1%;
     }
     
     .div_seperator_naming_and_logo:not(:empty)::after {
-        border: solid 2px;
+        border: solid 1.5px;
         max-width: 100%;
         background: #414042;
         margin-left: 1%;
     }
 
     .naming_and_logo p {
-        padding: 0 4vw 0;
         color: #414042;
         font-family: Montserrat, sans-serif;
-        font-size: 18px;
+        font-size: 3.5vw;
         font-weight: 400;
     }
 
+    #footer {
+        top: 75vw;
+        position: relative;
+        background: black;
+        left: 0;
+        width: 100%;
+        height: 20vw;
+        display: flex;
+      }
+    
+      #footer #copyright {
+        width: 100%;
+        position: absolute;
+        margin: 15% auto;
+        color: white;
+        text-align: center;
+        font-size: 2.5vw;
+      }
+    
+      #footer .link-pages {
+        width: 100%;
+        margin: 4% auto 0 auto;
+        position: absolute;
+        text-align: center;
+      }
+    
+      #footer .link-pages a img {
+        height: 6vw;
+        width: 6vw;
+        margin-right: 10px;
+        border: none;
+      }
 }
