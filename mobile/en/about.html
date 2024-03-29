@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About us - Katharsis</title>
     <link rel="icon" type="image/x-icon" href="../img/ICON-LOGO/favicon.png">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <link rel="stylesheet" href="../styles/style_header.css">
-    <link rel="stylesheet" href="../styles/style_footer.css">
     <link rel="stylesheet" href="../styles/style_about.css">
     <link rel="stylesheet" href="../styles/swiper.css">
     <script src="../scripts/menu_navigation.js"></script>
@@ -16,19 +16,22 @@
 
 </head>
 <body>
-    <div class="container" id="loadingScreen">
-        <div id="loader">
-            <img src="../img/GIFs/kds_loader.gif" alt="loadpage">
-        </div>
+  <div class="container" id="loadingScreen">
+    <div id="loader">
+        <img src="../img/GIFs/kds_loader.gif" alt="loadpage">
     </div>
+</div>
 <div id="all_content">
-  <div id="header">
-      <div class="logo">
-          <a href="home">
-              <img src="../img/ICON-LOGO/Logo-SVG-Uxankyun.svg">
-          </a></div>
-      <nav class="menu">
-          <ul>
+<div id="header">
+<div class="logo">
+    <a href="home">
+        <img src="../img/ICON-LOGO/Logo-SVG-Uxankyun.svg">
+    </a>
+</div>
+<input class="side-menu" type="checkbox" id="side-menu"/>
+<label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
+<nav class="nav">
+<ul class="menu">
               <li><a href="portfolio" class="fill-text">PORTFOLIO</a></li>
               <li><a href="about" class="fill-text active">ABOUT US</a></li>
               <li><a href="contact" class="fill-text">CONTACT US</a></li>
@@ -105,13 +108,13 @@
       <p><strong>KATHARSIS</strong><br>The name of our brand comes from Latin and doesn’t have its translation in many languages. The word KATHARSIS is mostly used in the original Latin form. Katharsis is an emotional state. It is the purification of emotions through art. It is when the person’s imagination and taste is on the same level as the work of art giving them pleasure and helping them feel peace of mind.</p><p>This defines the work of our studio. We create merely good, correct, and efficient works that correspond to the worldview and imagination of our clients. Besides the brand name, our logo has a big role as well when it comes to impressing people. It is easy to recognize and remember both consciously and subconsciously.</p><p>The logo has been created in a minimalistic style and has a great meaning behind it. It is a bridge mimicking the geometrical design of Armenian bridges. It represents an object connecting two dots. In this case it portrays the connection of the achievements in art and design and the unification of old and new styles making it clearer for the person to understand art.</p>
     </div>
   </div>
-  <!--  -->
-  <!-- footer -->
-  <footer id="footer">
+</div>
+    <!-- footer -->
+    <footer id="footer">
       <div class="link-pages">
-        <a href="https://www.instagram.com/katharsis.am/" class="icon fa-instagram" target="_blank"><img src="../img/ICON-LOGO/In-Footer.png" width="30px"></a>
-        <a href="https://www.facebook.com/katharsis.am" class="icon fa-facebook" target="_blank"><img src="../img/ICON-LOGO/FB-Footer.png" width="30px"></a>
-        <a href="https://www.behance.net/KATHARSIS_Design/" class="icon fa-behance" target="_blank"><img src="../img/ICON-LOGO/Be-Footer.png" width="30px"></a>
+          <a href="https://www.instagram.com/katharsis.am/" class="icon fa-instagram" target="_blank"><img src="../img/ICON-LOGO/In-Footer.png" width="30px"></a>
+          <a href="https://www.facebook.com/katharsis.am" class="icon fa-facebook" target="_blank"><img src="../img/ICON-LOGO/FB-Footer.png" width="30px"></a>
+          <a href="https://www.behance.net/KATHARSIS_Design/" class="icon fa-behance" target="_blank"><img src="../img/ICON-LOGO/Be-Footer.png" width="30px"></a>
       </div>
       <div id="copyright">
           <script>
@@ -120,6 +123,5 @@
           </script>
       </div>
   </footer>
-</div>
 </body>
 </html>
